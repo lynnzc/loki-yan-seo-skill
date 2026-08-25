@@ -10,15 +10,6 @@ Use it for Google SEO, international / cross-border sites, technical SEO, EEAT /
 
 ---
 
-## Disclaimer (read this first)
-
-- **Not SEO consulting, and not Loki Yan.** Independent distillation of **public tweets**. Unofficial.
-- **His case studies are mostly asserted.** The cleanest before/after stories have no site names, no GSC screenshots, and no independent audit in the corpus. Cite them as `[asserted]`.
-- **AEO / GEO tactics are explicitly missing.** He said he currently has no way to answer “how to do GEO.” Do not invent a playbook.
-- Decisions stay with you. Absolute-sounding lines (Shopify-only, “you will 100% drop”) are tagged judgments, not orders.
-
----
-
 ## Layout
 
 ```
@@ -34,8 +25,6 @@ loki-yan-seo-skill/
 ```
 
 `SKILL.md` is how to run a task. `methodology.md` is what is true in his words. `references/` is the evidence trail. `examples/` is the output shape. On conflict: methodology wins; if methodology also has nothing, mark `no procedure in corpus`.
-
-Inspired by the *idea* of [ZadAnthony/serenity-skill](https://github.com/ZadAnthony/serenity-skill) (engine + SSOT). This repo is intentionally thicker so the distillation can be audited.
 
 ---
 
