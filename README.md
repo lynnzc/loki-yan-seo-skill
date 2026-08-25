@@ -58,7 +58,13 @@ A diagnosis of *this site*, not a recap of a blogger:
 ## Install
 
 ```bash
-git clone https://github.com/<you>/loki-yan-seo-skill.git <your-runtime-skills-dir>/loki-yan-seo
+npx skills add lynnzc/loki-yan-seo-skill
+```
+
+or:
+
+```bash
+git clone https://github.com/lynnzc/loki-yan-seo-skill.git <your-runtime-skills-dir>/loki-yan-seo
 ```
 
 Invoke it the way your runtime discovers skills (`/loki-yan-seo`, `@Loki Yan SEO`, or load `SKILL.md` + `methodology.md` as context). Update with `git pull`.
