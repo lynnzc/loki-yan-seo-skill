@@ -1,0 +1,27 @@
+{
+  "name": "Loki Yan SEO",
+  "slug": "loki-yan-seo",
+  "unofficial": true,
+  "affiliated": false,
+  "source": "@loki_yan_seo public tweets via CarryFeed",
+  "corpus": {
+    "posts": 979,
+    "originals": 367,
+    "replies": 588,
+    "reposts": 24,
+    "loki_authored": 533,
+    "window": "2025-07-11 → 2026-08-25 UTC",
+    "profile_statuses_at_start": 574,
+    "profile_statuses_last_seen": 580,
+    "last_add_id": "2092105285955473656"
+  },
+  "created_at": "2026-08-25",
+  "updated_at": "2026-08-25",
+  "version": "v0.2",
+  "persona_default": "off",
+  "knowledge_sources": [
+    "CarryFeed profile statuses + replies",
+    "CarryFeed search from:loki_yan_seo"
+  ],
+  "corrections_count": 0
+}
