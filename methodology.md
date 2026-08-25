@@ -1,9 +1,9 @@
 # Loki Yan SEO methodology (knowledge SSOT)
 
 > **Corpus boundary (both artifacts must keep this honest)**
-> Distilled only from `@loki_yan_seo` public tweets recovered via CarryFeed: **979** posts (**367** originals, **588** replies, **24** reposts), **2025-07-11 → 2026-08-25 UTC**. Last add: JS-off / CSS-effects tip (id=2092105285955473656). Unofficial. Not affiliated, authorized, or endorsed.
+> Distilled only from `@loki_yan_seo` public tweets: **979** posts (**367** originals, **588** replies, **24** reposts), **2025-07-11 → 2026-08-25 UTC**. Last add: JS-off / CSS-effects tip (id=2092105285955473656). Unofficial. Not affiliated, authorized, or endorsed.
 >
-> The public profile lists **574** lifetime statuses. Older posts were not recoverable. This is **not** a full-lifetime distillation. Do not pretend it is.
+> Window: **2025-07-11 → 2026-08-25**. Do not treat this as the whole account.
 >
 > Of the 979 URLs, **533** are Loki-authored (**130** originals + **403** replies). Conversation-partner tweets sitting in the same dump are **not** his claims. Empty / quote-only RTs (24) and thanks-only replies are ignored.
 >
@@ -859,9 +859,9 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 
 ## §6 Known bias and corpus gaps
 
-### 6.1 This is not a full-lifetime distillation
+### 6.1 Corpus gaps
 
-- **978** CarryFeed public posts (366 originals / 588 replies / 24 RTs), **2025-07-11 → 2026-08-25**, not the profile’s **580** lifetime statuses. Older posts, Xiaohongshu old essays, talk decks, client GSC, lokiyan.com, firstoptimise.com are **not** in the evidence.
+- **979** public posts (367 originals / 588 replies / 24 RTs), **2025-07-11 → 2026-08-25**. Xiaohongshu old essays, talk decks, client GSC, lokiyan.com, firstoptimise.com are **not** in the evidence.
 - Loki-authored slice used: **532** (129 originals + 403 replies). Conversation-partner tweets in the dump are not his claims. 24 empty RTs ignored.
 - Almost all laws sit in **2026-03-15 → 2026-08-25**. March leftovers that were never taught as steps: GEO white/black-hat, non-English brand disadvantage, Day 0 talk title.
 - **Must keep as observations, not SOP** (in-corpus, missing from the old 150-post skill): non-English brands are structurally weaker in English-heavy LLMs (id=2034056213529563637) (id=2034056920827629816); AI did not dissolve information cocoons, it re-amplified old asymmetry (id=2034056213529563637). No “therefore write English / buy EN citations.”

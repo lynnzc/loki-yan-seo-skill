@@ -6,7 +6,7 @@ It models *how he frames a site, what he treats as causal, and what he refuses t
 
 Use it for Google SEO, international / cross-border sites, technical SEO, EEAT / Trust, AI Overviews / AI Mode, or GEO questions.
 
-> Distilled bottom-up from **979 public posts** (367 originals, 588 replies, 24 reposts; **533** Loki-authored) recovered via CarryFeed, 2025-07-11 → 2026-08-25. The public profile listed 574 statuses when this started and 580 on the last refresh. Older posts were not recoverable. This is not a full-lifetime distillation.
+> Distilled bottom-up from **979 public posts** (367 originals, 588 replies, 24 reposts; **533** Loki-authored), 2025-07-11 → 2026-08-25.
 
 ---
 
@@ -70,7 +70,7 @@ See `examples/` for the expected output shape.
 
 ## Method
 
-1. Pull the public timeline (profile statuses + replies + dated search windows).
+1. Start from the public tweet corpus.
 2. Split into five dimensions: repeated claims, procedures, rejections, named terms, cases.
 3. Converge into `methodology.md` and `SKILL.md`.
 4. Keep gaps explicit. Do not import blog posts, talks, or generic SEO frameworks unless a tweet itself states them.

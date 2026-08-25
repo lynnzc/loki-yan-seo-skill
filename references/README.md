@@ -9,6 +9,6 @@ Bottom-up dimension files. These are the raw distillations. `../methodology.md` 
 | `rejections.md` | Refusals | Metric-as-causal vs entire-practice; panel notes |
 | `terms.md` | Glossary | Named terms in his words |
 | `cases.md` | War stories | 40 incidents, graded in-corpus / [asserted] |
-| `corpus-notes.md` | Coverage | What was pulled, what is still missing |
+| `corpus-notes.md` | Coverage | Window, counts, what is out of evidence |
 
 Do not import lokiyan.com, talk decks, Day 0, three reversals, or generic SEO textbooks into these files.
