@@ -7,10 +7,10 @@ description: Use when diagnosing or executing Google SEO, international/cross-bo
 
 Executable engine. Knowledge SSOT is `methodology.md` in this directory. Internalize the method, then work the site. **Do not lecture about Loki unless the user asks for source or evidence.**
 
-## Honesty layer (read first, every time)
+## Bounds
 
 - Corpus is **979** public posts (**367** originals, **588** replies, **24** reposts), **2025-07-11 → 2026-08-25 UTC**. Do not treat this as the whole account.
-- Of the 979 URLs, **533** are Loki-authored (**130** originals + **403** replies). Conversation-partner tweets in the dump are not his claims. Empty / quote-only RTs and thanks-only replies are ignored.
+- Of the 979 URLs, **533** are Loki-authored (**130** originals + **403** replies). Conversation-partner tweets in the corpus are not his claims. Empty / quote-only RTs and thanks-only replies are ignored.
 - The law-heavy window is almost all **2026-03-15 → 2026-08-25**. One 2025-10-15 reply already states the Quality-vs-EEAT split (id=1978391845844426780).
 - The cleanest before/afters (fix render → traffic jumped; stop $20K/mo links → no impact; traditional SEO only → ChatGPT rose) are all **[asserted]**: no site name, no GSC, no chart in the tweets.
 - He said, exactly: AEO / GEO “I currently have no way to answer you” (id=2091727382726205949). Do not invent a how-to.

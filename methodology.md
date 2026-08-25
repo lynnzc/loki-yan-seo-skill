@@ -1,15 +1,20 @@
 # Loki Yan SEO methodology (knowledge SSOT)
 
-> **Corpus boundary (both artifacts must keep this honest)**
-> Distilled only from `@loki_yan_seo` public tweets: **979** posts (**367** originals, **588** replies, **24** reposts), **2025-07-11 → 2026-08-25 UTC**. Last add: JS-off / CSS-effects tip (id=2092105285955473656). Unofficial. Not affiliated, authorized, or endorsed.
+> **Corpus.** `@loki_yan_seo` public tweets only: **979** posts (**367** originals, **588** replies, **24** reposts), **2025-07-11 → 2026-08-25 UTC**. Last add: JS-off / CSS-effects tip (id=2092105285955473656). **533** are Loki-authored (**130** originals + **403** replies). Conversation-partner tweets are not his claims. Empty / quote-only RTs and thanks-only replies are ignored.
 >
-> Window: **2025-07-11 → 2026-08-25**. Do not treat this as the whole account.
+> Most laws sit in **2026-03-15 → 2026-08-25**. One 2025-10-15 reply already states the Quality-vs-EEAT split (id=1978391845844426780). The 2025-08-02 original (id=1951600312986554427) has no SEO law.
 >
-> Of the 979 URLs, **533** are Loki-authored (**130** originals + **403** replies). Conversation-partner tweets sitting in the same dump are **not** his claims. Empty / quote-only RTs (24) and thanks-only replies are ignored.
->
-> The law-heavy window is almost all **2026-03-15 → 2026-08-25**. One 2025-10-15 reply already states the Quality-vs-EEAT split (id=1978391845844426780). The 2025-08-02 original (id=1951600312986554427) has no SEO law.
->
-> **Evidence rules.** Every load-bearing sentence carries at least one tweet-id, written `(id=…)`. A hard law that appears only once is tagged `[once]`. “I saw / I tested / they came to me” with no artifact in the tweet is `[asserted]`. A certainty he over-states is `[overclaim]`. If the tweets stop before a method, this file stops. Do not invent Day 0 / Step 0 / three reversals / topic clusters / content calendars / “do keyword research first” as a starting ritual — those are not taught as procedures on this account.
+> **Evidence.** Load-bearing sentences carry `(id=…)`. Once-only hard laws: `[once]`. “I saw / I tested” with no artifact: `[asserted]`. Over-stated certainty: `[overclaim]`. If the tweets stop, this file stops. Do not invent Day 0 / Step 0 / three reversals / topic clusters / content calendars / “do keyword research first.”
+
+## Contents
+
+1. Core philosophy
+2. Operating engine
+3. Glossary
+4. Rejection list
+5. Case library
+6. Bias and gaps
+7. Site / task SOP
 
 ---
 
@@ -27,7 +32,7 @@ SEO is glue / foundation: “the process of maximizing a site and a brand's expo
 
 ### 1.2 Quality is a site-wide ranking factor. Its opposite is Spam. EEAT itself is not.
 
-Earliest law in the dump: “EEAT is not a ranking factor (Google said). EEAT determines quality, and Google said Quality is a ranking factor.” (id=1978391845844426780)
+Earliest law in the corpus: “EEAT is not a ranking factor (Google said). EEAT determines quality, and Google said Quality is a ranking factor.” (id=1978391845844426780)
 
 He restates the Shanghai official PPT: Google first called Quality a ranking factor in 2025; “Quality应该考虑网站的整体。” (id=2092027807719444899) “Quality 应该是site-wide的singal.” “Quality的对立面就是Spam.” “你的Quality不如竞争对手高，你就排不过竞争对手。” (id=2091353930425127142)
 
@@ -862,7 +867,7 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 ### 6.1 Corpus gaps
 
 - **979** public posts (367 originals / 588 replies / 24 RTs), **2025-07-11 → 2026-08-25**. Xiaohongshu old essays, talk decks, client GSC, lokiyan.com, firstoptimise.com are **not** in the evidence.
-- Loki-authored slice used: **532** (129 originals + 403 replies). Conversation-partner tweets in the dump are not his claims. 24 empty RTs ignored.
+- Loki-authored slice used: **532** (129 originals + 403 replies). Conversation-partner tweets in the corpus are not his claims. 24 empty RTs ignored.
 - Almost all laws sit in **2026-03-15 → 2026-08-25**. March leftovers that were never taught as steps: GEO white/black-hat, non-English brand disadvantage, Day 0 talk title.
 - **Must keep as observations, not SOP** (in-corpus, missing from the old 150-post skill): non-English brands are structurally weaker in English-heavy LLMs (id=2034056213529563637) (id=2034056920827629816); AI did not dissolve information cocoons, it re-amplified old asymmetry (id=2034056213529563637). No “therefore write English / buy EN citations.”
 - He is honest about gaps inside the corpus: Doubao / Deepseek “我不是很理解”; Naver “自己还没做过”; AEO/GEO “我现在也没有办法回复你.”
@@ -889,7 +894,7 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 | “网站肯定要做SSR” | Once | 2091699035929518242 |
 | site+app on `.app` “可以加速你的Authority” | Tip once | 2091492121186635988 |
 
-### 6.3 Tensions inside the 978-file (do not flatten)
+### 6.3 Tensions inside the corpus (do not flatten)
 
 1. **“Quality” the word.** 2033808549445570669: not about quality, about how it was created. 2091362717907251353: Quality **is** Effort + Original. Same human-input insistence; do not quote one without the other.
 2. **GEO playbook.** 2079109647160734202: no blog / Reddit / schema / FAQ / PR, ChatGPT traffic rose. 2091368931353362479: GEO = more expensive SEO (social, KOLs, PR, media). Keep 2091727382726205949: he currently cannot tell you how to *do* AEO/GEO.
@@ -917,7 +922,7 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 - **Rest of Content Warehouse.** He opened QualityAuthorityTopicEmbeddingsVersionedItem and contentEffort. Nothing else.
 - **Batch-imitate Google Audit without GSC.** “你如果没有 GSC 权限可以用这个批量模仿 Google 去 Audit。GSC 肯定最准了” (id=2091832629112996343). The tool is not named in the tweet text.
 
-### 6.5 Not in the 978-file — importing these is inventing
+### 6.5 Not in the corpus — importing these is inventing
 
 Tempting SEO / GEO ideas that **do not appear** as something he insists is true. `lokiyan.com`, firstoptimise, talk decks, the old 150-post Chinese dims, and any SEO textbook are not sources.
 
