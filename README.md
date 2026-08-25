@@ -20,6 +20,8 @@ git clone https://github.com/lynnzc/loki-yan-seo-skill.git <your-runtime-skills-
 
 Then invoke `/loki-yan-seo` or load `SKILL.md` + `methodology.md`. Update with `git pull`.
 
+This repo is also a Cursor plugin. After listing, install it from the Cursor Marketplace. Local test: copy the repo into `~/.cursor/plugins/local/loki-yan-seo`.
+
 ## Usage
 
 ```
@@ -53,6 +55,7 @@ It will not treat schema / FAQ / Reddit / PR as required GEO, or DA / backlink v
 | `examples/` | Output shapes (EXAMPLE data only) |
 | `UPDATE.md` | How new tweets get merged |
 | `meta.json` | Corpus counts + version |
+| `.cursor-plugin/` | Cursor Marketplace manifest |
 
 If methodology also has nothing, mark `no procedure in corpus`.
 

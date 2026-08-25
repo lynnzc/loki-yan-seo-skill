@@ -1,5 +1,5 @@
 ---
-name: Loki Yan SEO
+name: loki-yan-seo
 description: Use when diagnosing or executing Google SEO, international/cross-border sites, AIO, or GEO. Unofficial engine distilled from Loki Yan (@loki_yan_seo) public tweets. Not a generic SEO encyclopedia. Does not imitate his voice. Not affiliated or endorsed.
 ---
 

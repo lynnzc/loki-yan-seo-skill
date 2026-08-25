@@ -1,0 +1,14 @@
+{
+  "name": "loki-yan-seo",
+  "displayName": "Loki Yan SEO",
+  "version": "0.2.0",
+  "description": "Unofficial Agent Skill from Loki Yan (@loki_yan_seo) public tweets. Google SEO / AIO / GEO diagnosis engine.",
+  "author": {
+    "name": "lynnzc"
+  },
+  "homepage": "https://github.com/lynnzc/loki-yan-seo-skill",
+  "repository": "https://github.com/lynnzc/loki-yan-seo-skill",
+  "license": "MIT",
+  "keywords": ["seo", "google-seo", "skills", "agent-skills", "ai-overviews", "geo", "eeat"],
+  "logo": "assets/logo.svg"
+}
