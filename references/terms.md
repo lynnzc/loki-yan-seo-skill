@@ -1,6 +1,6 @@
 # @loki_yan_seo glossary — named terms / mechanisms (English)
 
-Source: his own `post` / `reply` in `/workspace/loki-yan/corpus.md` and `corpus.json` (**978** items, 2025-07-11 → 2026-08-25). **532** of those are his (`url` contains `/loki_yan_seo/`). Other people's tweets and **repost** bodies are not his definitions.
+Source: his own posts / replies. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other people's tweets and **repost** bodies are not his definitions.
 
 Rule: define only in his words. English below is a tight rendering of what he wrote (his English left as-is). If he used a name and never defined it, the entry records **usage only** — no industry fill-in.
 
@@ -512,8 +512,8 @@ Rule: define only in his words. English below is a tight rendering of what he wr
 **Related:** No Index, Quality, Spam
 
 ### Core Web Vitals
-**He said:** One of the things Quality can refer to; one of the Technical SEO foundations (CWV of giant sites "with a lot of data interaction"). No metric definition.
-**ids:** 2091353930425127142, 2091301352463102268
+**He said:** One of the things Quality can refer to; one of the Technical SEO foundations (CWV of giant sites "with a lot of data interaction"). Field panel: cruxvis.withgoogle.com origin+all 28d LCP/CLS/INP. Lighthouse/PSI = lab. CWV is not a named ranking factor; with other page-experience it is ranking-related.
+**ids:** 2091353930425127142, 2091301352463102268, 2092889660783722868
 **Related:** Quality, Technical SEO
 
 ### PBN
@@ -715,8 +715,8 @@ Rule: define only in his words. English below is a tight rendering of what he wr
 **Related:** keyword-spreading, Entity
 
 ### keyword tool ladder
-**He said:** Semrush, Ahrefs; if stronger, Dataforseo; "if you want to refine, hands-on you can use Google Keyword Planner (most accurate on the Google side)"; also Google Keyword Trends. "Looking at keywords, analyzing keywords, is a physical job and also a mental job."
-**ids:** 2090954259680694666
+**He said:** Semrush, Ahrefs; if stronger, Dataforseo; "if you want to refine, hands-on you can use Google Keyword Planner (most accurate on the Google side)"; also Google Keyword Trends. Refresh: lazy = AI + Ahrefs / DataForSEO; traditional = Semrush / Ahrefs; advanced = Trends; detail = funded Google Ads Planner (most accurate volume).
+**ids:** 2090954259680694666, 2092448668712645088
 **Related:** root keyword, KW Difficulty
 
 ### Shopify / Headless / Agentic Shopping
@@ -740,9 +740,9 @@ Rule: define only in his words. English below is a tight rendering of what he wr
 **Related:** QRG, highest, Quality
 
 ### Google Business Profile
-**He said:** On a site review: "if you don't have a fixed address, you can also do google business profile"; "missing a contact page (at least leave an email?)."
-**ids:** 2039659702192427443
-**Related:** Contact Us, About Us
+**He said:** On a site review: "if you don't have a fixed address, you can also do google business profile"; "missing a contact page (at least leave an email?)." Later procedure: Bing Business + Apple Business; site must have map, address, phone, schema, dedicated Contact; everything in GBP must exist on the site; social + reviews; GBP team ≠ Search team; dirty work.
+**ids:** 2039659702192427443, 2092207366305681808
+**Related:** Contact Us, About Us, Local
 
 ---
 
@@ -786,4 +786,45 @@ These he threw as proper names. Tweets have no definition sentence. No industry 
 - **Named only, no definition sentence: 25** (table H)
 - **Total listed: 167**
 
-Corpus boundary: 978 items in `corpus.json`; definitions taken only from his 532 posts/replies. The older 150-post window is inside this set. Extra names that only appear in the wider 978 include SEO edge-work, AI Image Detection, human effort, LLM.txt, Broad GEO, PSEO, root keyword, .app-domain Authority, Deindex, Error Rate, Domain Rating, information cocoons / asymmetric rules, GSC Generative AI 5% test, reviews/brand reputation, and Best Practice-as-using-rules.
+Corpus boundary: last full public-post count remains 979; Loki-authored +156 since last cutoff (now 689). Full originals/replies/reposts recount was not rerun.
+
+---
+
+## 2026-08-28 delta (append)
+
+### ranking model
+**He said:** "我的模型就是 Ranking = (Techinical Foundation + Quality) * Brand Reputation." Methods he cannot graph, he will not recommend. `[once]`. Not a scorecard.
+**ids:** 2093195666847879327
+
+### Language Lock
+**He said:** AI Search is still language-isolated. CJK can pull EN citations/fanout. No cross-language summary. To show up on AI platforms, do multilingual. Mechanism + one implication, not a GEO SOP.
+**ids:** 2092248676324520232
+
+### SEO captures demand
+**He said:** "SEO Capture Demand。SEO Doesnt Create Demand。" No 种草 / no search → many businesses should not start with SEO. Paid can scale on ROAS.
+**ids:** 2092387406242787628, 2092380170426765423
+
+### quality four-part
+**He said:** First-hand experience + Originality + Non-commodity + Effort (手写，不是AI，费劲心力). Folds into Effort + Original.
+**ids:** 2092977176501228007
+
+### author vectors / US10599770B1
+**He said:** Bidirectional LinkedIn required — "人家linkedin 没连你，就不算." Patent US10599770B1.
+**ids:** 2092468221794513075
+
+### product-first IA
+**He said:** On day 1 know each page’s query / title / h1 / url. Do not find keywords then invent pages.
+**ids:** 2093181903579087176
+
+### PR 51000 / 47000
+**He said:** Leak-adjacent: PR>51000 rare/expensive (uint16 65535); PR<47000 same if not spam; cheap bulk links weak; badbacklinksPenalized; penguinEarlyAnchorProtected.
+**ids:** 2092595964888699272, 2092791651349713156, 2092601636241953071
+
+### Screaming Frog (must-have)
+**He said:** The one must-have tool; other tools optional. Raw vs rendered. Lumar / Botify = enterprise Frog; skip at mid-size.
+**ids:** 2092784685650997342, 2092723929249132561
+
+### site reputation abuse / ghost writing
+**He said:** Third-party content machines on a publisher’s authority. He walked a recovery cycle. Do not buy the service.
+**ids:** 2092557180755144890
+

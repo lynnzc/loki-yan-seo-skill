@@ -1,10 +1,10 @@
 # Repeated claims (English)
 
-Source: `@loki_yan_seo` authored posts and replies only, from `/workspace/loki-yan/corpus.md` and `corpus.json` (**978** items: 366 originals / 588 replies / 24 reposts). **532** URLs are his (`/loki_yan_seo/`); the rest are other people's tweets in the same threads and are not sources. Repost bodies are ignored. Window of the tweets below: Sat 2025-08-02 → Tue 2026-08-25 (UTC; CST +8).
+Source: `@loki_yan_seo` authored posts and replies only. Last full public-post count remains **979** (367 originals / 588 replies / 24 reposts). Loki-authored **+156** since last cutoff (was 533; now 689). Full originals/replies/reposts recount was not rerun. Window: 2025-07-11 → 2026-08-28 UTC.
 
 A claim lands here if he said it more than once, or said it once as a hard law (必须 / 肯定 / 不存在 / 直接会被干 / 请勿：枪毙 / “I am very sure”). English statements are his **meaning**, not a voice imitation. Quotes keep his words (Chinese left as-is when that is the original). Frequency = distinct tweet ids.
 
-Old 150-post Chinese checklist `/workspace/loki-yan/dim-repeated-claims.md` was used only as a hunt list. Every id below was re-hammered into this 978 corpus. Nothing is imported from lokiyan.com, decks, Day 0, “three reversals,” SSG/CSR, Schema-as-annotation, or generic SEO frameworks.
+Nothing is imported from lokiyan.com, decks, Day 0, “three reversals,” SSG/CSR, Schema-as-annotation, or generic SEO frameworks.
 
 **Claim count: 46 numbered laws + 12 once/hard-law lines (and 2 question-only rows) that did not earn a full cluster.**
 
@@ -669,10 +669,10 @@ Tempting SEO / GEO ideas that **do not appear** as something he insists is true.
 - “You must do Reddit for GEO” as his advice. He files that sentence under Commodity Content.
 - E-E-A-T as a score you game with badges, decorative bylines, or author-box widgets. He wants a real, cross-checkable person + LinkedIn (or GitHub), not a fake profile.
 - DA / DR buying, PBN, expired-domain ranking as a *recommended* white-hat path. He describes them as affiliate / black-hat timing plays, not as what to do.
-- Core Web Vitals as *the* ranking lever. CWV appears as one Quality bullet (2091353930425127142) and as something you only feel on giant JS sites (2091301352463102268), never as a standalone law.
+- Core Web Vitals as *the* ranking lever. He now gave a CrUX field-data panel (2092889660783722868). Still not the main lever.
 - Internal-linking systems, log-file analysis, crawl-budget optimization as a taught playbook. Crawl budget shows up as a *reason* soft 404 is dangerous.
 - Featured snippets / PAA / “optimize for position zero.”
-- Local SEO / Google Business Profile as a method (only a Google RT, no take).
+- Generic Local-SEO encyclopedias beyond the GBP procedure (2092207366305681808).
 - Hreflang implementation notes (the word appears inside a quoted Klook JD).
 - Conversion-rate / CRO frameworks (he says Shopify frees time for CRO; he does not teach one).
 - Prompt-engineering-for-ranking, or 「花 Token = 花了 Effort」. He mocks that equation (2092095823731462302).
@@ -688,5 +688,23 @@ Tempting SEO / GEO ideas that **do not appear** as something he insists is true.
 - **46** numbered claims (every row has tweet id + quote).
 - **12** extra once/hard-law lines in the table (some overlap the numbered “once” claims), plus 2 question-only rows (Bing citations; Navboost).
 - **8** strongest laws listed at the top.
-- All ids were checked against the 532 Loki-authored items in the 978 corpus.
+- Window through 2026-08-28. Loki-authored increment +156; full public-post recount not rerun.
 - Required inclusions present: non-English brands (#31, ids 2034056213529563637, 2034056920827629816); AI × 信息茧房 / asymmetry (#32, id 2034056213529563637).
+
+---
+
+## 2026-08-28 delta (append)
+
+New Loki-authored doctrine since the 2026-08-25 cutoff. Same ids as methodology. Do not overwrite the numbered laws above.
+
+- **Ranking model `[once]`** (2093195666847879327): Ranking = (Technical Foundation + Quality) * Brand Reputation. Methods he cannot graph, he will not recommend. Not a scorecard.
+- **SEO captures demand** (2092387406242787628, 2092380170426765423): SEO does not create demand. Many businesses should not start with SEO (no search / no 种草). Paid can scale when ROAS works.
+- **Quality four-part** (2092977176501228007): First-hand experience + Originality + Non-commodity + Effort (handwritten, not AI). Folds into Effort + Original; does not replace it.
+- **Language lock** (2092248676324520232): AI Search still language-isolated; CJK can pull EN citations/fanout; no cross-language summary; multilingual if you want AI-platform exposure. Tension with “I have no way to answer how to do GEO.” Not a GEO kit.
+- **AI Mode still SEO; EN blue links shrink** (2092188399390322826): append to the existing AIO=SEO law.
+- **Bidirectional LinkedIn / author vectors** (2092468221794513075): LinkedIn must link back; patent US10599770B1. Strengthens the fake-author / LinkedIn law.
+- **Do not chase cheap bulk links** (2092595964888699272, 2092791651349713156, 2092601636241953071): PR>51000 rare/expensive; PR<47000 same if not spam. `[asserted experiment / leak-adjacent]`. Same direction as don’t-chase-links.
+- **He is not a 出海 / 新站 expert** (2093165450708537490, 2092722291243458579): Agency / In-house mid/late. Product-first IA (2093181903579087176): day-1 query / title / h1 / url; do not find keywords then invent pages.
+- **出海 category pick** (2092174932323311912): `[once]` / `[asserted, hypothetical]`. Volume, long dwell, mobile-app 三吃, competitor bullets, Effort, sell shovels, studio + products, io/technology/ai/asia, LinkedIn + GitHub. Not a default new-site SOP.
+- **Screaming Frog is the one must-have** (2092784685650997342): other tools optional. Lumar + Botify = enterprise Frog; skip at mid-size (2092723929249132561).
+

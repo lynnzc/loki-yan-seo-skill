@@ -9,11 +9,11 @@
     "originals": 367,
     "replies": 588,
     "reposts": 24,
-    "loki_authored": 533,
-    "window": "2025-07-11 → 2026-08-25 UTC",
-    "last_add_id": "2092105285955473656"
+    "loki_authored": 689,
+    "window": "2025-07-11 → 2026-08-28 UTC",
+    "last_add_id": "2093195666847879327"
   },
   "created_at": "2026-08-25",
-  "updated_at": "2026-08-25",
-  "version": "v0.2"
+  "updated_at": "2026-08-28",
+  "version": "v0.3"
 }

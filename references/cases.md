@@ -1,6 +1,6 @@
 # Dimension: cases, war stories, talks, leaks, named sites
 
-Source: `@loki_yan_seo` tweets only (`/workspace/loki-yan/corpus.md`, `/workspace/loki-yan/corpus.json`). 978 items in the dump (532 from him: 129 posts, 403 replies; 24 reposts ignored; 446 are other people's tweets in the same threads). No blog. No decks. No prior skill.
+Source: `@loki_yan_seo` tweets only. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other people's tweets in the same threads are not sources. No blog. No decks. No prior skill.
 
 A **case** here is a named incident: a client or prospect disaster, an experiment with a before/after, a talk he gave or sat, a leak he tore down, a specific site or keyword he worked, or a question he put to Gary / Google staff.
 
@@ -40,7 +40,7 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 ### 1. Content Warehouse: `siteFocusScore` / `siteRadius` / topical authority
 
 **Type:** leak teardown
-**When:** he dates the dump to 2024-03. Tweet 2026-08-24 (CST).
+**When:** he dates the Warehouse leak to 2024-03. Tweet 2026-08-24 (CST).
 **Ids:** 2091894056687431704 (main), 2090291222556578070 (Site Focus applied to About Us), 2091895491982405998 (one-line restatement)
 
 **What happened:** Google “误将 Content Warehouse API 的内部代码文档开源到 Github.” He states 2500 pages, 14,000 ranking-related files. He opens one block: `QualityAuthorityTopicEmbeddingsVersionedItem`. Fields he names: `siteFocusScore`, `siteRadius`, page/site `embedding`.
@@ -797,3 +797,53 @@ Brighton SEO deck library (2091671329812717693). Apple i18n / no auto-redirect (
 | 2033322311051575534 | 29 |
 | 2033321100848095548 | 29 |
 | 2033189225483677758 | 40 notes (small outranks Amazon) |
+
+---
+
+## 2026-08-28 delta (append)
+
+Asserted unless he shows artifacts.
+
+### 41. Lark fake authors + August 2026 Spam Update
+**Proof:** asserted. Lark named; no GSC.
+**What happened:** Second domestic-head after Alibaba using fake-author blogs. Google just shipped the August Spam Update. Watch fake-author + scaled content abuse speed.
+**ids:** 2092409990413975891
+
+### 42. Site reputation abuse / ghost writing — he walked recovery
+**Proof:** asserted. Forbes Advisor SER roundtable URL is a citation, not proof of *his* site.
+**What happened:** Pre-AI ghost-writing machines + publisher authority = SRA / Manual Action. He walked a full recovery cycle. Do not buy the service.
+**ids:** 2092557180755144890
+
+### 43. DR80+ Silicon Valley product advised backlinks / cloaking
+**Proof:** asserted. Company unnamed. 50M MAU / 100M downloads / DR80+ are his numbers.
+**What happened:** Agencies suggested backlinks, AI summary, cloaking-for-crawlers. He says a great product does not need that.
+**ids:** 2093149251341881693
+
+### 44. Google anti-crawl → rank trackers get expensive
+**Proof:** asserted observation.
+**What happened:** Anti-crawl ships. Tracking / crawler tools break; Ahrefs / Semrush / Seranking / DataForSEO rank-tracking costs rise.
+**ids:** 2092783640401031234
+
+### 45. Wayback malware / botnet domain
+**Proof:** asserted. Chrome red warning; domain unnamed.
+**What happened:** Bought a domain, Chrome showed a malware warning. Prior life as botnet / junk host, still present years later.
+**ids:** 2092604590067970417
+
+### 46. Backlink leak experiment (PR 51000 / 47000)
+**Proof:** in-corpus for leak field names. Asserted experiment / leak-adjacent for the math.
+**What happened:** PR>51000 rare (uint16 65535; models ~0.4%–4.75%). PR<47000 same if not spam. Cheap bulk links do not help. Same direction as don’t-chase-links.
+**ids:** 2092595964888699272, 2092791651349713156, 2092601636241953071
+
+### 47. GEO tracking / Ahrefs datacenter EEAT dunk
+**Proof:** in-corpus for ahrefs.com/big-data. Asserted as a dunk.
+**What happened:** Do not start by building a GEO tracker. Ahrefs already entered prompt-watching; their EEAT is a datacenter.
+**ids:** 2092224165646622937
+
+### 48. AI Mode still SEO; EN blue links shrink
+**Proof:** asserted forecast. Official “AI Mode is Search” restated.
+**ids:** 2092188399390322826
+
+### 49. GA MCP (optional tool, not a case-law)
+**Proof:** in-corpus for the developers.google.com MCP URL.
+**ids:** 2092210684503503245
+

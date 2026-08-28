@@ -15,3 +15,11 @@ Day 0, three reversals, SSG/CSR tables, Schema-as-annotation, FO 5-step, CRO fra
 ## Source priority
 
 Long-form writing **by him** > **decision / refusal replies** > thanks-only / empty RTs. Conversation-partner tweets are not doctrine.
+
+## 2026-08-28 delta
+
+Window through 2026-08-28 UTC. Loki-authored +156 (533 → 689). Full public-post recount not rerun; `posts` stays 979.
+
+Appended: ranking model, GBP procedure, GEO language-lock, quality four-part, CWV field panel, backlink leak experiment, new-site caveat, product-first IA, keyword ladder refresh, Frog must-have, author-vector patent, cases (Lark, SRA/ghost writing, DR80+ cloaking, anti-crawl, Wayback malware, GEO-tracker dunk).
+
+Tensions live in methodology §6: GEO how-to missing vs language-lock multilingual; he is not a 新站 expert vs product-first IA he did give. Do not overwrite old laws.

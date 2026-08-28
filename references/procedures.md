@@ -1,6 +1,6 @@
 # Procedures
 
-Source: `@loki_yan_seo` only, from `/workspace/loki-yan/corpus.md` and `corpus.json` (**978** posts, Fri 2025-07-11 to Tue 2026-08-25). **532** of those URLs are his (129 posts, 403 replies). Other accounts in the same threads are not sources. No blog. No decks. No Day 0 / three-reversals / 5-step FO / CRO framework / hreflang recipe / Top Stories / feed-hack SOP imported from outside.
+Source: `@loki_yan_seo` only. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other accounts in the same threads are not sources. No blog. No decks. No Day 0 / three-reversals / 5-step FO / CRO framework / hreflang recipe / Top Stories / feed-hack SOP imported from outside.
 
 English only. His English is kept as-is. Chinese is a tight rendering of what he said. Names and steps keep **his** meaning. Incomplete means the tweets stop before a method.
 
@@ -314,6 +314,8 @@ How to build the "new" author, how to replace the content — not written. Casin
    - id=2064981657497813013 — "The site's Traffic Trends can also be looked at on SEMRush, Ahrefs or Similar Web."
 3. And Wayback Machine, to see whether this site ever existed.
    - id=2064981657497813013 — "And another one is Wayback Machine, see whether this site ever existed."
+4. Malware / botnet history can still trip Chrome years later.
+   - id=2092604590067970417 — "我差点就中过一次招，域名弄回来上线了，chrome打开直接是红色木马警报。" / "后来查出来是之前网站域名被当过肉机，或者垃圾站点。"
 
 No "this history is buyable / this history is not" table. YMYL threshold "should be bound to the domain" is an observation (id=2091011325438955723), not a buy/don't-buy checklist.
 
@@ -830,9 +832,9 @@ Questions only (id=2092027807719444899).
 `[no procedure in corpus]`
 Harm + Angular timeout case + Alibaba 200-status error pages (procedure 12). No item-by-item check table.
 
-### Crawl budget, Core Web Vitals, how to fix render timeout
+### Crawl budget, how to fix render timeout
 `[no procedure in corpus]`
-Named at first enlightenment (id=2091301352463102268). No repair method.
+Named at first enlightenment (id=2091301352463102268). No repair method. CWV now has a field-data *panel* (procedure 39) — still not a repair playbook and still not the main lever.
 
 ### How to build links
 `[no procedure in corpus]`
@@ -861,6 +863,53 @@ A price, not a procedure: 800-1K AUD long landing, 300-500 a blog, 200 a product
 
 ## Do not import
 
-Do not fill the holes above from: topic cluster, content calendar, CWV-as-main-lever, featured snippet, Local SEO, CRO frameworks, popular GEO homework (Reddit / schema / FAQ / PR / semantic matching as must-dos), Day 0, three reversals, 5-step First Optimise, hreflang recipes, Top Stories playbooks, feed hacks, or anyone else's GEO "three things" that sat in the same JSON under another handle.
+Do not fill the holes above from: topic cluster, content calendar, CWV-as-main-lever (field panel exists; still not the main lever), featured snippet, generic Local-SEO kits beyond the GBP procedure, CRO frameworks, popular GEO homework (Reddit / schema / FAQ / PR / semantic matching as must-dos), Day 0, three reversals, 5-step First Optimise, hreflang recipes, Top Stories playbooks, feed hacks, or anyone else's GEO "three things."
 
 "Do not mechanically execute SOP" (id=2091761728241766791) is a hiring bar. These lists are scan order.
+
+---
+
+## 2026-08-28 delta (append)
+
+### 39. Local / GBP
+**When:** Brick-and-mortar / local (id=2092207366305681808)
+1. Bing Business + Apple Business too.
+2. GBP team ≠ Search team — run and optimize separately.
+3. Site must have map, address, phone, schema, dedicated Contact.
+4. Everything done in GBP must exist on the site.
+5. Social + reviews. Summary: dirty work.
+
+### 40. CWV field data
+**When:** How to read Core Web Vitals accurately (id=2092889660783722868)
+1. https://cruxvis.withgoogle.com/#/ — origin + all, 28d, LCP / CLS / INP.
+2. Lighthouse / PSI = lab / debug only.
+3. CWV is not a named ranking factor; with other page-experience it is ranking-related.
+4. Don’t over-invest; don’t lag competitors; late-game all-green helps; do it early because migration is painful.
+
+### 41. Keyword ladder refresh
+**When:** Keyword research (id=2092448668712645088). Does not replace procedure 8.
+1. Lazy: AI + Ahrefs / DataForSEO.
+2. Traditional: Semrush / Ahrefs.
+3. Advanced: Trends.
+4. Detail: funded Google Ads Planner = most accurate volume.
+
+### 42. Product-first IA
+**When:** New product site (id=2093181903579087176)
+On day 1 know each page’s query / title / h1 / url. Do not find keywords then invent pages.
+He is not a 出海 / 新站 expert (id=2093165450708537490, 2092722291243458579). 出海 category-pick list is `[once]` / `[asserted, hypothetical]` — not a default SOP (id=2092174932323311912).
+
+### 43. Screaming Frog is the one must-have
+**When:** Doing SEO (id=2092784685650997342)
+Other tools optional. Raw vs rendered. Lumar + Botify = enterprise Frog; do not install at mid-size (id=2092723929249132561).
+
+### 44. Language lock
+**When:** GEO / AI Search questions (id=2092248676324520232)
+Mechanism + one implication (multilingual for AI-platform exposure). How-to GEO remains `[no procedure in corpus]`.
+
+### 45. Author vectors
+**When:** Author entity (id=2092468221794513075)
+Bidirectional LinkedIn required. Patent US10599770B1.
+
+### Optional tool note (not a procedure)
+GA MCP if tagging / tracking already done (id=2092210684503503245).
+

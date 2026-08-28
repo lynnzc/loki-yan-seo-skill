@@ -1,8 +1,6 @@
 # Dimension: rejections (English)
 
-Source: tweets only — `/workspace/loki-yan/corpus.md` and `corpus.json` (**978** posts). No blog, no decks, no imported SEO frameworks.
-
-Evidence is **@loki_yan_seo authored only** (532 of 978). Other people's replies in the dump are ignored.
+Source: `@loki_yan_seo` authored tweets only. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other people's replies are ignored. No blog, no decks, no imported SEO frameworks.
 
 Two rejection types used throughout:
 
@@ -433,4 +431,22 @@ Use this as the index. Type tag: `C` = rejects metric as causal; `P` = rejects t
 - He is not anti-EEAT. He is anti treating EEAT itself as the named ranking factor.
 - One linear claim he *accepts* (do not invert): brand+keyword volume ↔ rank among already-excellent sites (2090684152328945976).
 
-**978 vs the earlier 150-post cut — added in this file:** EEAT≠ranking-factor (1978391845844426780); DR as reference / 40-beat-90 (2088606575581856225, 2088623359366209644, 2088636106271256974); non-original PSEO (2088639745807278589); Reddit never for YMYL (2076337271381598396); llms.txt text-trap for Search (2071840010593358218); vibe-coding ≠ money core (2071775046205612299); semi-auto > full-auto (2033806758175772940); fake/bot Trends in Asia (2048931520086429732); 2026 Udemy (2091453544683729230); all-blog ≠ conversion (2091775475635073373); unverifiable / one-way authors (2091744284668305427, 2091755868954231087); AI images ≠ +contentEffort (2092100375239438810); report that only re-proves 乱铺内容 (2071461332592009682); sitemap changefreq/priority (2039659702192427443).
+**Earlier 150-post cut vs later public posts — added in this file:** EEAT≠ranking-factor (1978391845844426780); DR as reference / 40-beat-90 (2088606575581856225, 2088623359366209644, 2088636106271256974); non-original PSEO (2088639745807278589); Reddit never for YMYL (2076337271381598396); llms.txt text-trap for Search (2071840010593358218); vibe-coding ≠ money core (2071775046205612299); semi-auto > full-auto (2033806758175772940); fake/bot Trends in Asia (2048931520086429732); 2026 Udemy (2091453544683729230); all-blog ≠ conversion (2091775475635073373); unverifiable / one-way authors (2091744284668305427, 2091755868954231087); AI images ≠ +contentEffort (2092100375239438810); report that only re-proves 乱铺内容 (2071461332592009682); sitemap changefreq/priority (2039659702192427443).
+
+---
+
+## 2026-08-28 delta (append)
+
+| id | quote / meaning | type | still a panel? |
+|---|---|---|---|
+| 2092595964888699272 / 2092791651349713156 / 2092601636241953071 | Cheap bulk links; PR>51000 rare; PR<47000 same if not spam | entire-practice of chasing cheap links | Leak fields as forensics |
+| 2092557180755144890 | Ghost-writing / site-reputation-abuse as a growth play | entire-practice | Recovery consulting exists; do not buy the service |
+| 2093149251341881693 | Backlinks / cloaking-for-crawlers advised to a DR80+ product | entire-practice | — |
+| 2092224165646622937 | Build a GEO tracker first / prompt-watching as the starting job | entire-practice | Ahrefs already entered; their EEAT is a datacenter |
+| 2092889660783722868 | Lighthouse / PSI as CWV truth | metric-as-causal | CrUX Vis field panel |
+| 2092723929249132561 | Install Lumar / Botify at mid-size | entire-practice | Enterprise Frog only |
+| 2093181903579087176 | Find keywords then invent pages | entire-practice | Product-first: day-1 query/title/h1/url |
+| 2092387406242787628 / 2092380170426765423 | Start many businesses with SEO when there is no demand / no 种草 | entire-practice | Paid / other channels when ROAS works |
+| 2092207366305681808 | GBP with no on-site NAP | entire-practice | GBP / Bing Business / Apple Business as ops |
+| 2092248676324520232 | (not a rejection of multilingual) — do not treat language-lock as a GEO how-to | keep tension | Mechanism only |
+

@@ -4,7 +4,7 @@ Unofficial Agent Skill. Turns Loki Yan ([@loki_yan_seo](https://x.com/loki_yan_s
 
 Use it for Google SEO, international / cross-border sites, technical SEO, EEAT / Trust, AI Overviews / AI Mode, or GEO questions.
 
-Distilled bottom-up from **979 public posts** (367 originals, 588 replies, 24 reposts; **533** Loki-authored), 2025-07-11 → 2026-08-25.
+Distilled bottom-up from **979 public posts** (367 originals, 588 replies, 24 reposts; last full recount). Updated through **2026-08-28**; **689** Loki-authored (+156 since last cutoff; full originals/replies/reposts recount not rerun).
 
 ## Install
 
@@ -36,7 +36,7 @@ See `examples/` for the output shape.
 
 A diagnosis of *this site*:
 
-- Task type (decline / new site / growth / hold-the-hill / migration / multilingual / ecommerce / GEO ask / YMYL / personal brand)
+- Task type (decline / new site / growth / hold-the-hill / migration / multilingual / ecommerce / GEO ask / YMYL / personal brand / local·GBP)
 - Do first / stop first: 3–7 things actually blocking this site
 - Red flags, named
 - One-query-per-page table
