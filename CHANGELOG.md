@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-08-31
+
+- Version **v0.4**. Window through **2026-08-31 UTC**. Last add: spam-policy dual track `2094335458423742688`.
+- Loki-authored **+165** (689 → 854). Full public-post recount was not rerun; `posts` stays **979**; originals/replies/reposts left at the previous recount.
+- H1 = ranking query of that page; poetic / beautiful-empty H1 Google cannot parse.
+- Bing / IndexNow + engine routing (ChatGPT/Copilot/Yahoo/Claude → Bing; Gemini → Google). No Bing ranking SOP.
+- Internal-link tracking params forbidden; 千人千面 vs crawler (cloaking-adjacent).
+- Crawl Budget Management enterprise-required (Klook JD); Soft 404 still the load-bearing item.
+- WordPress `[once]` overseas SEO default, scoped vs Shopify 2026 ecommerce.
+- Language-lock restated (input + English); GEO = brand/WOM/ads; Google+Microsoft AEO/GEO = Foundation. How-to still missing.
+- Cases: 1.2M US tech-foundation `[asserted]`; GetYourGuide travel; 上岸 observation.
+- Tensions: XHS vs author-EEAT; WP vs Shopify; language-lock restated vs GEO how-to missing.
+
+
 ## 2026-08-28
 
 - Version **v0.3**. Window through **2026-08-28 UTC**. Last add: ranking model `2093195666847879327`.

@@ -1,8 +1,8 @@
 # Loki Yan SEO methodology (knowledge SSOT)
 
-> **Corpus.** `@loki_yan_seo` public tweets only. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979** posts (**367** originals, **588** replies, **24** reposts). Loki-authored **+156** since last cutoff (was **533**; now **689**). Full originals/replies/reposts recount was not rerun. Last add: ranking model (id=2093195666847879327). Conversation-partner tweets are not his claims. Empty / quote-only RTs and thanks-only replies are ignored.
+> **Corpus.** `@loki_yan_seo` public tweets only. Window **2025-07-11 → 2026-08-31 UTC**. Last full public-post count remains **979** posts (**367** originals, **588** replies, **24** reposts). Loki-authored **+165** since last cutoff (was **689**; now **854**). Full originals/replies/reposts recount was not rerun. Last add: spam-policy dual track (id=2094335458423742688). Conversation-partner tweets are not his claims. Empty / quote-only RTs and thanks-only replies are ignored.
 >
-> Most laws sit in **2026-03-15 → 2026-08-28**. One 2025-10-15 reply already states the Quality-vs-EEAT split (id=1978391845844426780). The 2025-08-02 original (id=1951600312986554427) has no SEO law.
+> Most laws sit in **2026-03-15 → 2026-08-31**. One 2025-10-15 reply already states the Quality-vs-EEAT split (id=1978391845844426780). The 2025-08-02 original (id=1951600312986554427) has no SEO law.
 >
 > **Evidence.** Load-bearing sentences carry `(id=…)`. Once-only hard laws: `[once]`. “I saw / I tested” with no artifact: `[asserted]`. Over-stated certainty: `[overclaim]`. If the tweets stop, this file stops. Do not invent Day 0 / Step 0 / three reversals / topic clusters / content calendars / “do keyword research first.”
 
@@ -24,7 +24,7 @@
 
 Traditional Search “does three things: crawl sites, index sites, serve (ranking)” (id=2091364706703581191). He nails the boundary in both languages, weeks apart: “写博客不叫做SEO。” (id=2092059738062348681) “Writing blog posts != SEO.” (id=2081519248011370590)
 
-On a serious long-term project, “SEO 铺词” as a concept does not exist (id=2090954259680694666). “铺词，铺内容这两个东西本质就是伪命题。” (id=2089165558516437461) Named companies and agencies “都没有花钱招人写博客和做外链”; the writing seat is a separate Content / Editor / Content Strategist hire (id=2091060807065117104). All-blog sites still have to answer “你们有转化么？我觉得应该做money page。” (id=2091775475635073373)
+On a serious long-term project, “SEO 铺词” as a concept does not exist (id=2090954259680694666). “铺词，铺内容这两个东西本质就是伪命题。” (id=2089165558516437461) Named companies and agencies “都没有花钱招人写博客和做外链”; the writing seat is a separate Content / Editor / Content Strategist hire (id=2091060807065117104). All-blog sites still have to answer “你们有转化么？我觉得应该做money page。” (id=2091775475635073373) Blog-only sites lose traffic as AI Mode answers: “所以你的网站 只会写博客的话，流量只会越来越低，因为像谷歌这样的AI Mode 把总结完的东西直接告诉你了。” Users like summaries; money page still required (id=2093475631803826251).
 
 Doing SEO (and future GEO) is “catch 需求”: one plate of monthly searches, everyone fighting for the same demand (id=2091668405367791619). Later restated as a hard line: “SEO Capture Demand。SEO Doesnt Create Demand。” Many businesses should not start with SEO — no search demand / no 种草. Paid can scale when ROAS works (id=2092387406242787628) (id=2092380170426765423). The point is not charity: “做SEO是为了赚钱，不是为了为爱发电。” What you optimize is “your Money Page, your Trust.” High-ticket buyers “不会轻易因为一个Reddit或者一篇ChatGPT写的博客就成为你的付费用户。” (id=2090983234146574708) “转化和兜里的钱才有价值。流量是为了变现，不变现做流量就是为爱发电。” (id=2033807753547043235)
 
@@ -36,7 +36,7 @@ Earliest law in the corpus: “EEAT is not a ranking factor (Google said). EEAT 
 
 He restates the Shanghai official PPT: Google first called Quality a ranking factor in 2025; “Quality应该考虑网站的整体。” (id=2092027807719444899) “Quality 应该是site-wide的singal.” “Quality的对立面就是Spam.” “你的Quality不如竞争对手高，你就排不过竞争对手。” (id=2091353930425127142)
 
-Quality’s definition is two words: “Quality 的定义是Effort 和Original” (id=2091362717907251353). Content that can rank: close to human-written + has Quality + Quality = Effort + Original. “这里的原创可不是你找几个网站去缝合。” (id=2091362717907251353) Later four-part of high-quality content — keep Effort + Original, do not drop them: First-hand experience + Originality + Non-commodity + Effort (手写，不是AI，费劲心力) (id=2092977176501228007).
+Quality’s definition is two words: “Quality 的定义是Effort 和Original” (id=2091362717907251353). Content that can rank: close to human-written + has Quality + Quality = Effort + Original. “这里的原创可不是你找几个网站去缝合。” (id=2091362717907251353) Later four-part of high-quality content — keep Effort + Original, do not drop them: First-hand experience + Originality + Non-commodity + Effort (手写，不是AI，费劲心力) (id=2092977176501228007). 孙哥 thread restates First-hand + Original + Effort (handwritten hours) — id append, not a 孙哥 SOP (id=2093219112067760489).
 
 March tension, keep both `[once]`: “It's not about quality. It's about how it was created. If you make your own input there, it is more likely to rank.” (id=2033808549445570669) Same human-input insistence; the English word “quality” flips. Do not quote one without the other.
 
@@ -52,7 +52,7 @@ The no-error floor: “你做任何批量的事情，至少要有增量…不然
 
 Warehouse field: `contentEffort - LLM-based effort estimation for article pages` (id=2092090944648581505). Google Cloud has an AI Image Detection API: even if it will not punish you, “你contentEffort分数一定不会是 正 的.” `[overclaim / inference]` Hire a sharp intern + Canva and make images by hand (id=2092100375239438810).
 
-“SEO的不可能三角，即Scale，Quality，Speed。你不太可能在不花钱的情况下同时实现上述三件事情。” `[once]` (id=2090567084933787767)
+“SEO的不可能三角，即Scale，Quality，Speed。你不太可能在不花钱的情况下同时实现上述三件事情。” `[once]` (id=2090567084933787767) Restated: “在预算有限的情况下 / SEO，包括未来的GEO 三元悖论 / 量大，快，有效果” — no money then spend time; “不肯花时间，不肯花钱，要赚钱，这个事情本身就是不合理的。” (id=2093958829264507180)
 
 PSEO without an original spine (your own algorithm, rating system, data, or product) “不然半年内就会被砸掉. 无论网站权重多高，只要PSEO和铺的内容不是原创的，基本上今年都要出问题。” (id=2088639745807278589)
 
@@ -64,7 +64,7 @@ He pays senior copy AU$800–1000 / long landing, 300–500 / blog, 200 / produc
 
 Fake authors are the floor: “假作者肯定被谷歌枪毙，这玩意是底线。” `[overclaim on 肯定]` Fallback if you still batch: `"@type":"Organization"` (id=2091739865121783923). “写博客，不谈作者这个概念，就像谈恋爱不结婚一样，耍流氓。” QRG 4.5.3 on fake owner / creator profiles (id=2091381622616797394). Google looks at “作者实体、公开履历、领英账号、业背景，以及这些信息是否能被交叉验证。” (id=2033390752001335397) “如果你没办法验证真实性的话，不如不要放作者。或者就放你网站自己了。” (id=2091744284668305427) “作者连你 才行，不然没用。” — a one-way author box is dead (id=2091755868954231087). “换成新的 很有可能你的排名一下子就会上去” is a one-tweet recovery promise — treat as `[overclaim]` (id=2033817449922245047).
 
-Bidirectional LinkedIn is required — “人家linkedin 没连你，就不算.” Patent US10599770B1 (author vectors) (id=2092468221794513075). The “hardest / preferred” EEAT move: LinkedIn ↔ site entity linking. “提高SEO的最硬的一个方式，其实是linkedin。” (id=2090750446839476639) “Educational Degrees, Employment History 这俩东西，整个地球上只有 Linkedin 可以做到” `[once, overclaim]`. So the author’s LinkedIn links to the site, the site links to the author’s LinkedIn — that is the 优解. Xiaohongshu / WeChat “应该没用” as Google author authority (id=2091381622616797394). Convenient path: site A ↔ developer site ↔ GitHub/LinkedIn (id=2091198495197913207). If you will not show LinkedIn, “搞一个github，就是厉害一点的github，activity 高一点的.” (id=2092098493695553818)
+Bidirectional LinkedIn is required — “人家linkedin 没连你，就不算.” Patent US10599770B1 (author vectors) (id=2092468221794513075). Also reverse-link and do schema sameAs: “还要反过来连，然后做sameAs” (id=2093250660125089901). Quality writing can rank and pay — news-grad / writers as people-as-asset, light, not SOP (id=2093217297284645300). The “hardest / preferred” EEAT move: LinkedIn ↔ site entity linking. “提高SEO的最硬的一个方式，其实是linkedin。” (id=2090750446839476639) “Educational Degrees, Employment History 这俩东西，整个地球上只有 Linkedin 可以做到” `[once, overclaim]`. So the author’s LinkedIn links to the site, the site links to the author’s LinkedIn — that is the 优解. Xiaohongshu / WeChat “应该没用” as Google author authority (id=2091381622616797394). Convenient path: site A ↔ developer site ↔ GitHub/LinkedIn (id=2091198495197913207). If you will not show LinkedIn, “搞一个github，就是厉害一点的github，activity 高一点的.” (id=2092098493695553818)
 
 ### 1.5 Vertical, small-radius, stay focus. DA cannot cover off-topic.
 
@@ -80,7 +80,7 @@ Leak-adjacent experiment `[asserted experiment / leak-adjacent]`: PageRank > 510
 
 Do not flatten this with the English reply that “Great product and websites gain backlinks organically. Google is based on links.” (id=2091305639599612383) — that is *earned* links as a byproduct, not a chase-links program.
 
-YMYL / anything that touches money: the threshold is “权威性、专业性、合规性,” not backlinks. “搜索排名不是单纯的流量分发，而是信任分发。” (id=2033390752001335397) “EEAT里，特别是Trust 出问题的网站是致命的。” (id=2090697074153283687) Many topic sites have a threshold mechanism “（这个不是沙盒）.” “根据我的观察，YMYL的门槛应该是和域名绑定的。” `[once, 应该是]` (id=2091011325438955723) “crypto排名本质是合规，和SEO没太大关系。” `[once]` (id=2091741166094213429)
+YMYL / anything that touches money: the threshold is “权威性、专业性、合规性,” not backlinks. “搜索排名不是单纯的流量分发，而是信任分发。” (id=2033390752001335397) Restated: “SEO 行业里有一个东西叫YMYL，即your money your life.” Money categories: “金融，法律，健康，钱等等。能让人花钱，和直接和钱相关的。影响他人健康的（生理或者心理），都算。” (id=2094255508668793056). Expired-domain abuse: “域名 可能会承载 topic 这个东西。所以google 有expired domain abuse 这个spam 的惩罚” — “域名应该是和某一个行业类目绑定的。” (id=2093547820808896687). “EEAT里，特别是Trust 出问题的网站是致命的。” (id=2090697074153283687) Many topic sites have a threshold mechanism “（这个不是沙盒）.” “根据我的观察，YMYL的门槛应该是和域名绑定的。” `[once, 应该是]` (id=2091011325438955723) “crypto排名本质是合规，和SEO没太大关系。” `[once]` (id=2091741166094213429)
 
 ### 1.7 AIO / AI Mode is SEO. Gemini is not Search. GEO has no playbook from him.
 
@@ -90,7 +90,7 @@ AEO / GEO “底层逻辑和SEO差不多，都是优化你的品牌和网站实�
 
 “连常规Digital Marketing渠道都没有跑通的网站和生意，莫名其妙地做“GEO”，是一件最蠢的事情。” (id=2064910376060498033) “用Reddit做GEO的，和十几年前专门做外链的，基本上是一个逻辑. 一个算法的改动就能把你整个逻辑搞蹦了.” Hedge: “不是说用Reddit搞GEO这个方法不对，他在英文以外的搜索还是有用的，特别是简中.” (id=2091013621790716336) “Reddit should never rank for YMYL topics” (id=2076337271381598396). Mature brands already do well in GEO; take it apart and it is “SEO，SEM，Youtube, Instagram, Facebook, Tiktok” — “传统的branding, marketing换了一种方式去说而已” (id=2072681906228121745). Tension: doing GEO is “更贵的SEO” because you now also do Social / KOLs / PR / media (id=2091368931353362479) — a broader *definition*, not a playbook he ran. Keep the *negative*. Do not invent a positive GEO SOP.
 
-Language-lock mechanism, same window `[once, observation]`: AI Search is still language-isolated. Query language + region → thinking → fanouts → citations → answer in the input language. CJK queries can pull EN citations / fanout; there is no cross-language summary. “你用英文问问题，中文问问题，AI不会去参考德文，法文，日文的东西。” Implication he stated: to show up on AI platforms, do multilingual. This is **not** a GEO how-to. Keep the tension with “I currently have no way to answer you” (id=2092248676324520232) (id=2091727382726205949). Do not write a GEO kit from this.
+Language-lock mechanism, same window `[once, observation]`: AI Search is still language-isolated. Query language + region → thinking → fanouts → citations → answer in the input language. CJK queries can pull EN citations / fanout; there is no cross-language summary. “你用英文问问题，中文问问题，AI不会去参考德文，法文，日文的东西。” Implication he stated: to show up on AI platforms, do multilingual. This is **not** a GEO how-to. Keep the tension with “I currently have no way to answer you” (id=2092248676324520232) (id=2091727382726205949). Restated (non-CN-AI): “你知道GEO只有两种语言吗？（国产AI以外） / 你的输入语言+英语。AI不会把其他语言的内容整理完弄给你。” All brands → multilingual / international SEO; copy Apple and Canva (id=2093347878098042898) — id append, not a playbook. GEO / AI rec = brand + word-of-mouth + ads: “GEO，AI推荐，不就是以前说的品牌和广告吗？” (id=2093880423529193882). If AEO/GEO is Google + Microsoft, “你要做的事情其实就是做好Foundation。” (id=2094038466304868359). Do not write a GEO kit from this.
 
 White-hat / black-hat `[once]`: “帮助模型更准确理解你，和想办法让模型更偏向你，根本不是一回事。前者是建设。后者很容易滑向污染。” “GEO 最后不会消失，它只会像 SEO 一样，分化成白帽和黑帽。” (id=2033335605925654664)
 
@@ -110,13 +110,13 @@ Related March observations, not a SOP: “中美GEO最大的区别是GPT，Gemin
 
 Official-doc modality is an execution order: 请执行 = must do; 推荐 = must do; 避免 = do not; 请勿 = execute (id=2091807896053101013). “官方的推荐是什么就是什么，你和流量/排名犟什么” (id=2091805576611471526). “任何命令禁止你不要做的东西，基本上他都会有有程序在那里跑。” (id=2091381622616797394)
 
-He would hire for “有自己的判断能力，具有商业敏感度，不要机械的执行SOP。” (id=2091761728241766791) — §2 / §7 below are a scan order, not a list you can run with your brain off.
+He would hire for “有自己的判断能力，具有商业敏感度，不要机械的执行SOP。” (id=2091761728241766791) — §2 / §7 below are a scan order, not a list you can run with your brain off. Intuition vs skill: “如果你说让我靠直觉去看一个 网站，我可以五分钟就找到一堆可以优化的地方。 / 这个直觉其实就是 古法时代的经验，因为思考过。。” (id=2094237557530013922).
 
 The further up SEO you go, the more you need CS / IT. Technical SEO is the foundation. “你只要懂Tech SEO你就能找到一份还不错的SEO工作.” Once tech is level, ranking is page-versus-page at the micro layer — every HTML tag, word, alt, anchor: “排名排的就是这个最终形态” (id=2091301352463102268). After you cross an Authority threshold, “比的就是页面对页面，微观层面了.” Then entity depth + social fame (id=2088627560033009736). Tension: “文科生搞SEO GEO Affiliation 老猛了” (id=2033812415503339622) is about information-gap affiliate work, not a retraction of the CS/IT career claim.
 
 ### 1.10 His ranking model `[once]` — do not turn into a scorecard
 
-“我的模型就是 Ranking = (Techinical Foundation + Quality) * Brand Reputation” (his spelling) (id=2093195666847879327). Methods he cannot graph, he will not recommend: “有些我想否定的，或者我不喜欢，不推荐的方法，就是因为我脑子里构建不出一个合理的📈而已。” His model, not a checklist. Do not invent weights, rubrics, or a scoring sheet.
+“我的模型就是 Ranking = (Techinical Foundation + Quality) * Brand Reputation” (his spelling) (id=2093195666847879327). Methods he cannot graph, he will not recommend: “有些我想否定的，或者我不喜欢，不推荐的方法，就是因为我脑子里构建不出一个合理的📈而已。” His model, not a checklist. Do not invent weights, rubrics, or a scoring sheet. Real case `[asserted]`: “Techinical Foundation 修了30% / 就到了月 峰值 1.2 M 美国流量” then PM/boss anti-SEO undoes it — “一朝回到解放前” (id=2093240810418704442). Ranking model live.
 
 ---
 
@@ -628,6 +628,87 @@ Implication he stated: to have a chance on AI platforms, do multilingual — not
 
 Keep §1.7 / §6: how to *do* GEO is still “我现在也没有办法回复你.” Do not write a GEO kit. Do not invent Day 0 / topic clusters from this.
 
+### 2.43 H1 = the ranking query of that page
+
+**When:** Page-level HTML. People skip H1 then chase sesame (id=2093224389605261381) (id=2093236681449332851)
+
+1. Theoretically every page’s H1 should carry the keyword that page is meant to rank for. “理论上 每一个页面的H1 都应该 要放 你这个页面要排名的关键字。”
+2. Beautiful empty prose as H1 is unreadable to Google. The first three poetic options (“翩若惊鸿…” etc.) are what he actually sees PMs / designers / marketing shipping: “用优美的文字描述不存在是实体，谷歌是看不懂的。”
+3. Open question, no template. Wrong answers are obvious. Best H1 takes time. Title also matters (reply-level, not a law).
+
+Do not invent an H1 length / KW-density recipe.
+
+### 2.44 Bidirectional entity + schema sameAs
+
+**When:** Author / brand entity. Strengthens LinkedIn two-way (id=2093250660125089901)
+
+“还要反过来连，然后做sameAs.” Reverse-link the entity and put schema `sameAs`. No property list, no JSON-LD template.
+
+### 2.45 CN + overseas IA — copy Apple / Canva; TLD split
+
+**When:** The brand / site does both China and overseas (id=2093339633614754128)
+
+1. Copy Apple and Canva architecture. “这两大哥把该做的Best Practice都做完了。”
+2. Overseas: unified `.com`, then language / region.
+3. China: `.com.cn` or `.cn`.
+4. “剩下的交给搜索引擎处理.”
+
+hreflang / ccTLD fine-config: **no procedure in corpus**.
+
+### 2.46 Bing / IndexNow / engine routing
+
+**When:** Not Google-only; ChatGPT / Copilot / Claude / Yahoo (id=2093355461303218245) (id=2093336738643275842)
+
+1. Do not forget Bing. IndexNow: https://www.bing.com/indexnow
+2. Why Bing: Microsoft default; ChatGPT uses Bing; Copilot uses Bing; Yahoo uses Bing; many company PCs in UK/US/EU force Edge + Bing.
+3. Routing: “Claude uses Bing, Gemini uses Google, ChatGPT uses Bing.”
+
+Engine routing only. **Do not invent a Bing ranking SOP.**
+
+### 2.47 JS: Google crawlers render; many AI chatbots do not
+
+**When:** Modern JS sites; AIO / chatbot visibility (id=2094275636357714095)
+
+Extends JS-off (§2.9b). “Google 等现代爬虫都有渲染JavaScript的能力。并且很多AI 在Chatbot里其实不会去跑渲染的。” Raw ≠ rendered still hides you. Check: GSC live-index render, or Frog with rendering on vs Raw HTML. New sites easy; old sites hard. Handling render is “Techinical SEO 大概1/4的工作量.” Official JS SEO basics link only. No Bing ranking SOP.
+
+### 2.48 Do not put tracking parameters on internal links
+
+**When:** PMs / analysts want UTM / params on internal links (id=2094278631296315660)
+
+1. Internal links pass link power. Params are anti-Google / anti-crawler.
+2. Canonical does not save it in the moment: “即便你设置了canonical tag, 爬虫不是在当下就看见的，这一块所有个搜索引擎爬虫，包括AI都是有bug的。”
+3. Extra param URLs waste crawl budget. JS-jump is also wrong.
+4. Collect tracking server-side. Clean URL = one ID card.
+
+### 2.49 千人千面 / personalization vs crawler
+
+**When:** Product wants customized faces (id=2094314984310514045)
+
+“老板：我们要做SEO… / 产品经理： 我们要做定制化推荐，千人千面 / 我：你给爬虫看哪一面？” Cloaking-adjacent red flag. No test script.
+
+### 2.50 Crawl Budget Management — enterprise-required
+
+**When:** Huge sites / Klook-class JD (id=2093665083486523872)
+
+1. Enterprise-required. 10 pages ≠ 1000 ≠ 1M ≠ 10M ≠ 100M.
+2. Know URL count, indexed vs not, what was crawled.
+3. Soft 404 is the most important point inside it (error pages must not return 200).
+4. Done well, “能够显著的提高 index rate 索引率，和排名” — told by a 千万-page SEO OM `[asserted]`.
+
+Item-by-item crawl-budget playbook: **no procedure in corpus**. Soft 404 procedure stays §2.11.
+
+### 2.51 Spam policy dual track
+
+**When:** Spam / cloaking requests from PM / design / dev (id=2094335458423742688)
+
+Google spam policy is dual-track: (1) algorithm (2) Manual Action. Spam costs Google money (servers + market share). First named item: Cloaking — “仅当请求网页的用户代理是搜索引擎而非人类访问者时，才在网页中插入文字或关键字” = do not. Throw https://developers.google.com/search/docs/essentials/spam-policies. Appends to existing Manual Action; no new recovery SOP.
+
+### Optional tool / stack notes (not ranking causes)
+
+- **Microsoft Clarity:** free session heatmap / UI-UX panel; later Bing GEO dashboard. Tool, not a ranking cause (id=2093511886683951613).
+- **WordPress `[once]`:** overseas SEO default; people who say WP is unusable usually never did overseas SEO. Ecosystem / plugins “120% SEO适配”. Scoped vs Shopify: WP for content/sites; Shopify still his 2026 ecommerce line. Keep both (id=2093542304372129882).
+- **Search Central YouTube 101:** learning-path id append (id=2094325559820197987).
+
 ---
 
 ## §3 Glossary — load-bearing terms in his words
@@ -742,6 +823,17 @@ Define only as he used them. If he named a thing and never defined it, the entry
 | **product-first IA** | On day 1 know each page’s query / title / h1 / url. Do not find keywords then invent pages. | 2093181903579087176 |
 | **PR 51000 / 47000** | Leak-adjacent: PR>51000 rare/expensive (uint16 65535); PR<47000 same if not spam; cheap bulk links weak; badbacklinksPenalized; penguinEarlyAnchorProtected. | 2092595964888699272, 2092791651349713156, 2092601636241953071 |
 | **Screaming Frog (must-have)** | The one must-have tool. Raw vs rendered. Lumar / Botify = enterprise Frog; skip at mid-size. | 2092784685650997342, 2092723929249132561 |
+| **H1 = ranking query** | Every page’s H1 should carry the query that page ranks for. Beautiful empty prose / poetic non-entities Google cannot parse. | 2093224389605261381, 2093236681449332851 |
+| **sameAs** | Reverse-link the entity, then do schema sameAs. Strengthens LinkedIn two-way. | 2093250660125089901 |
+| **IndexNow / Bing routing** | Do Bing; IndexNow. ChatGPT / Copilot / Yahoo use Bing. Claude uses Bing; Gemini uses Google; ChatGPT uses Bing. Engine routing, not a Bing ranking SOP. | 2093355461303218245, 2093336738643275842 |
+| **CN/overseas TLD split** | Copy Apple/Canva. Overseas `.com` + language/region; China `.com.cn` or `.cn`. hreflang fine-config still no procedure. | 2093339633614754128 |
+| **internal-link params** | Do not put tracking parameters on internal links. Anti-crawler; canonical does not save it in the moment. | 2094278631296315660 |
+| **千人千面** | Personalization vs crawler: which face does the crawler see? Cloaking-adjacent. | 2094314984310514045 |
+| **Crawl Budget Management** | Enterprise-required (Klook JD). Huge-site. Soft 404 is the load-bearing item. No item-by-item playbook. | 2093665083486523872 |
+| **WordPress (overseas default)** | `[once]` overseas SEO default. Scoped vs Shopify: WP for content/sites; Shopify still 2026 ecommerce. | 2093542304372129882 |
+| **Microsoft Clarity** | Free session heatmap panel. Tool, not a ranking cause. | 2093511886683951613 |
+| **spam policy dual track** | Algorithm + Manual Action. Spam costs Google money. Cloaking first named item. | 2094335458423742688 |
+| **expired domain abuse** | Domain may carry a topic. Google punishes expired-domain abuse. Domain should bind to a category. | 2093547820808896687 |
 
 ---
 
@@ -821,6 +913,12 @@ If he still opens the thing as a **reporting / research panel**, that is noted o
 | Find keywords then invent pages | P | Product-first: day-1 query/title/h1/url | 2093181903579087176 |
 | Starting many businesses with SEO when there is no demand / no 种草 | P | SEO captures demand; paid can scale on ROAS | 2092387406242787628, 2092380170426765423 |
 | GBP listings with no on-site NAP | P | Everything in GBP must exist on the site | 2092207366305681808 |
+| Tracking parameters on internal links | P | Canonical does not save it in the moment; collect server-side | 2094278631296315660 |
+| 千人千面 / personalization vs crawler (which face?) | P | Cloaking-adjacent | 2094314984310514045 |
+| Poetic / beautiful-empty H1 Google cannot parse | P | H1 = ranking query of that page | 2093224389605261381, 2093236681449332851 |
+| Cloaking / insert keywords only when UA is a crawler | P | Official spam-policy dual track; throw the doc | 2094335458423742688 |
+| Blog-only as the site (no money page) while AI Mode answers | P | Users like summaries; money page still required | 2093475631803826251 |
+| Semrush as ranking-data truth (now mostly trend screenshots) | C | Ahrefs relatively better; DataForSEO good-enough; KW Planner still most accurate volume | 2094197271655231778 |
 
 ### 4.2 The rejection is narrower than it looks
 
@@ -845,7 +943,7 @@ He **accepts** one linear claim (do not invert): when sites are already all exce
 
 Alibaba all-AI + fake-author matrix (id=2037884887307526631); Xiaohongshu-marketed “AI SEO blog automation” sites that cliffed (id=2034868852602151058); European affiliate playbook (id=2090697074153283687); Feishu SEO JD (id=2091060807065117104); domestic H5 / mini-program templates (id=2091008050262110227); 315-exposed pollution “GEO技术” / Putian logic (id=2033335605925654664); Zhihu robots.txt banning all crawlers (id=2091795112745689273); Tencent WeTV default title losing to pirates (id=2091682678261375106); Profound / Peec sell insights, “卖点肯定不是automation” (id=2092067172021608918).
 
-Ahrefs / Semrush / Screaming Frog / Profound / Peec are **not** banned as products. He dunks on the fantasy that those stacks should become automation. 2026-08-28 dunks: Lark fake authors vs August Spam Update (id=2092409990413975891); agencies pushing backlinks / cloaking to a DR80+ Silicon Valley product (id=2093149251341881693); GEO-tracker-first vs Ahrefs datacenter EEAT (id=2092224165646622937).
+Ahrefs / Semrush / Screaming Frog / Profound / Peec are **not** banned as products. He dunks on the fantasy that those stacks should become automation. 2026-08-28 dunks: Lark fake authors vs August Spam Update (id=2092409990413975891); agencies pushing backlinks / cloaking to a DR80+ Silicon Valley product (id=2093149251341881693); GEO-tracker-first vs Ahrefs datacenter EEAT (id=2092224165646622937). 2026-08-31 dunks (not laws): Adobe buying Semrush (id=2094197271655231778); Ahrefs-vs-Semrush poll is not a law (id=2094044371066954219).
 
 ---
 
@@ -962,6 +1060,17 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 | 55 | AI Mode still SEO; EN blue links shrink | **asserted** forecast. Official “AI Mode is Search” line restated. | Half GEO / half Search. 2/3 still the old stack. English blue links shrink first. | 2092188399390322826 |
 | 56 | GA MCP as an optional data panel | **in-corpus** for the developers.google.com MCP URL. Not a ranking law. | You can ask GA questions if tagging / tracking are already done. | 2092210684503503245 |
 
+### 5.8 2026-08-31 cases (asserted unless he shows artifacts)
+
+| # | Case | Proof | He claims | ids |
+|---|---|---|---|---|
+| 57 | Technical foundation +~30% → peak 1.2M US traffic, then PM/boss anti-SEO undoes it | **asserted.** No site, no GSC. Ranking model live. | Tech foundation moves US traffic; SEO is a business/team job — you must move PM, boss, eng, design. | 2093240810418704442 |
+| 58 | GetYourGuide travel SEO | **asserted** reading of a named public site. 230+ travel authors, UGC, all-language translation are his gloss. | Travel is among the most competitive (after 黄赌金融 web3 news real estate). PSEO is amplify Authority, not junk pages. | 2093334205669499139 |
+| 59 | 上岸 / inbound China travel demand | **asserted** observation (boss in Shanghai; classmate-parent ChatGPT itinerary). Not SOP. | Understand the pain (WeChat/Dianping vs Google Maps) rather than chase keywords. | 2093925562784063874 |
+| 60 | Aleyda 171-expert AI-search survey (he excerpted) | **[asserted, third-party]** numbers. Not his measurement. Optional references only. | Measurement / attribution is the hard part; 46% say AI search is 0–5% of revenue. Do not over-depend on an unknown channel. | 2094003420739035641 |
+| 61 | Performance Marketing vs SEO agency beef | **asserted** culture note, not SOP. | SEO thinks Performance needs ad spend; Performance thinks SEO is slow. | 2093510115894935919 |
+| 62 | China GEO 规范 named | **in-corpus** for the Xinhua PDF URL. Do **not** import the PDF as doctrine. | Named doc he pointed at. China GEO vs world GEO as a question. | 2093578005176353204 |
+
 ### 5.6 What he never shows, even on the cases he uses as proof
 
 - No GSC / Semrush / Ahrefs screenshots survive in the tweet *text*. He refers to “这个图片” (Zhihu) and “忘记截图了” (Alibaba) — the pictures are not in this corpus.
@@ -978,9 +1087,9 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 
 ### 6.1 Corpus gaps
 
-- Window **2025-07-11 → 2026-08-28**. Last full public-post count remains **979** (367 originals / 588 replies / 24 RTs). Loki-authored **+156** since last cutoff (was 533; now 689). Full originals/replies/reposts recount was not rerun. Xiaohongshu old essays, talk decks, client GSC, lokiyan.com, firstoptimise.com are **not** in the evidence.
+- Window **2025-07-11 → 2026-08-31**. Last full public-post count remains **979** (367 originals / 588 replies / 24 RTs). Loki-authored **+165** since last cutoff (was 689; now 854). Full originals/replies/reposts recount was not rerun. Xiaohongshu old essays, talk decks, client GSC, lokiyan.com, firstoptimise.com are **not** in the evidence.
 - Conversation-partner tweets in the corpus are not his claims. Empty RTs ignored.
-- Almost all laws sit in **2026-03-15 → 2026-08-28**. March leftovers that were never taught as steps: GEO white/black-hat, non-English brand disadvantage, Day 0 talk title.
+- Almost all laws sit in **2026-03-15 → 2026-08-31**. March leftovers that were never taught as steps: GEO white/black-hat, non-English brand disadvantage, Day 0 talk title.
 - **Must keep as observations, not SOP** (in-corpus, missing from the old 150-post skill): non-English brands are structurally weaker in English-heavy LLMs (id=2034056213529563637) (id=2034056920827629816); AI did not dissolve information cocoons, it re-amplified old asymmetry (id=2034056213529563637). No “therefore write English / buy EN citations.”
 - He is honest about gaps inside the corpus: Doubao / Deepseek “我不是很理解”; Naver “自己还没做过”; AEO/GEO “我现在也没有办法回复你.”
 
@@ -1015,6 +1124,9 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 5. **CS/IT required** (id=2091727382726205949) vs “文科生搞SEO GEO Affiliation 老猛了” (id=2033812415503339622). Different jobs.
 6. **GEO how-to missing vs language-lock multilingual.** 2091727382726205949: he currently cannot tell you how to do AEO/GEO. 2092248676324520232: AI Search is language-isolated; to show up on AI platforms, do multilingual. Keep both. Language-lock is a mechanism + one implication, not a GEO kit.
 7. **He is not a 新站 / 出海 expert** (id=2093165450708537490) (id=2092722291243458579) vs product-first IA he *did* give (id=2093181903579087176) and a `[once]` / `[asserted, hypothetical]` 出海 category-pick list (id=2092174932323311912). Do not promote the hypothetical to a default new-site SOP.
+8. **Xiaohongshu vs author-EEAT.** Old rejection stands: Xiaohongshu / WeChat “应该没用” as Google author authority (id=2091381622616797394). New observation: if Xiaohongshu did SEO it would rival Reddit and affect Gemini/ChatGPT Chinese recs; it is already overseas-Chinese “search engine” (id=2093710749608882680). Keep both. Do not upgrade XHS to Google author EEAT.
+9. **WordPress vs Shopify.** WP is the overseas SEO default `[once]` (id=2093542304372129882). Shopify-only remains his 2026 *new ecommerce* line `[overclaim]` (id=2091062668056838266). Scoped: WP for content/sites; Shopify for new ecommerce. Keep both.
+10. **Language-lock restated.** 2093347878098042898 restates two languages (input + English, non-CN-AI) and “all brands → multilingual / international SEO.” Still not a GEO how-to. Keep 2091727382726205949.
 
 ### 6.4 He named, did, or asked someone about these — and did not leave a followable program
 
@@ -1028,12 +1140,14 @@ Close runners he also deploys as proof, but once each: Ameba / Kimura noindex at
 - **100 pages / 1M pages / Billion pages, each strategy.** Questions only (id=2092027807719444899).
 - **Algorithm Recovery.** Consulting volume rose (id=2092067172021608918). No recovery steps.
 - **Soft 404 system hunt.** Harm + Angular timeout case + Alibaba 302→200. No item-by-item check table.
-- **Crawl budget, how to fix render timeout.** Named at first 悟道 (id=2091301352463102268). No repair method. CWV now has a field-data panel (id=2092889660783722868) — still not a repair playbook and still not the main lever.
+- **Crawl budget, how to fix render timeout.** Named at first 悟道 (id=2091301352463102268). Now named as enterprise-required Crawl Budget Management (Klook JD) (id=2093665083486523872) — Soft 404 is the load-bearing item; still no item-by-item playbook. CWV now has a field-data panel (id=2092889660783722868) — still not a repair playbook and still not the main lever.
 - **How to start a brand-new 出海 site.** He said he is not that expert (id=2093165450708537490) (id=2092722291243458579). Product-first IA is the piece he *did* give (id=2093181903579087176).
 - **How to rank Google Top Stories.** He says they worked it out in 2023; steps: none (id=2091729433279496522).
 - **How to build links.** Useful, don’t chase. No construction process (id=2090685656079241520).
 - **How to design and sell a generic SEO / GEO Agent.** Logic doesn’t work; he only builds process tools for himself (id=2092067172021608918, id=2092073561171398727).
-- **hreflang / ccTLD / international setup** beyond copy Apple, don’t auto-jump, submit Bing, “弄一下 Naver.”
+- **hreflang / ccTLD / international setup** beyond copy Apple, don’t auto-jump, submit Bing, “弄一下 Naver,” and the CN/overseas TLD split (`.com` vs `.com.cn`/`.cn`) (id=2093339633614754128). Fine-config still not written.
+- **Bing ranking SOP.** IndexNow + engine routing only (id=2093355461303218245) (id=2093336738643275842). No Bing ranking playbook.
+- **China GEO 规范.** Named PDF he pointed at (id=2093578005176353204). Do not import the PDF as doctrine.
 - **Rest of Content Warehouse.** He opened QualityAuthorityTopicEmbeddingsVersionedItem and contentEffort. Nothing else.
 - **Batch-imitate Google Audit without GSC.** “你如果没有 GSC 权限可以用这个批量模仿 Google 去 Audit。GSC 肯定最准了” (id=2091832629112996343). The tool is not named in the tweet text.
 
@@ -1051,7 +1165,7 @@ Tempting SEO / GEO ideas that **do not appear** as something he insists is true.
 - E-E-A-T as a score you game with badges, decorative bylines, or author-box widgets.
 - DA / DR buying, PBN, expired-domain ranking as a *recommended* white-hat path.
 - Core Web Vitals as *the* ranking lever. He now gave a CrUX field-data panel (id=2092889660783722868). Still not the main lever. Do not import a CWV optimization playbook.
-- Internal-linking systems, log-file analysis, crawl-budget optimization as a taught playbook. Crawl budget shows up only as a reason soft 404 is dangerous.
+- Internal-linking systems, log-file analysis, crawl-budget optimization as a taught playbook. Crawl Budget Management is now named as enterprise-required (id=2093665083486523872); still no item-by-item playbook. Soft 404 remains the load-bearing step. Do not put tracking parameters on internal links (id=2094278631296315660) — that is a prohibition, not an internal-linking system.
 - Featured snippets / PAA / “optimize for position zero.”
 - Generic Local-SEO encyclopedias beyond the GBP procedure he gave (Bing Business + Apple Business; on-site NAP must match; GBP team ≠ Search; dirty work) (id=2092207366305681808). Older leftover: GBP when there is no street address (id=2039659702192427443).
 - Conversion-rate / CRO frameworks (CRO is named once as a thing to spend Shopify-saved time on, not a taught system).
@@ -1095,7 +1209,7 @@ If this gate fails, later keywords and content are still charity.
 
 ### 7.2 Domain and qualification
 
-4. New / expired domain: Semrush / Ahrefs / Majestic for links, Semrush / Ahrefs / SimilarWeb for traffic, Wayback for past life (malware / botnet history can still trip Chrome years later) (id=2064981657497813013) (id=2092604590067970417). Spam / PBN / 黄赌毒 history = hell-level start.
+4. New / expired domain: Semrush / Ahrefs / Majestic for links, Semrush / Ahrefs / SimilarWeb for traffic, Wayback for past life (malware / botnet history can still trip Chrome years later) (id=2064981657497813013) (id=2092604590067970417). Spam / PBN / 黄赌毒 history = hell-level start. Expired-domain abuse: domain bound to a topic (id=2093547820808896687).
 5. Must have About Us and Contact Us. About 定性 the brand — who / what / credentials / alignment with the real-world entity (id=2090291222556578070) (id=2033192558889963680).
 6. Homepage query should be a `{modifier} + Entity` that can cover the next 3–5 years. Queries unrelated to that Entity do not belong on this site (id=2091185632202883243). Stay focus. East-and-west publishing blows out siteRadius and drops Focus (id=2091894056687431704).
 
@@ -1107,25 +1221,28 @@ Technical SEO “是所有的Foundation” (id=2091301352463102268). On a collap
 8. Crawl status (id=2091795112745689273).
 9. Error pages must return HTTP 404, not 200. Soft 404 is a landmine (id=2091349098553295075).
 10. `Raw = Rendered`, `Desktop = Mobile`, one HTML once, no `display:none`; no separate m-site, Canonical does not save it (id=2091508567119642847) (id=2091008050262110227). Screaming Frog is the one must-have for the render diff; Lumar / Botify = enterprise Frog, skip at mid-size (id=2092784685650997342) (id=2092723929249132561).
-10b. JS-heavy: Chrome JS off, compare to apple.com/iphone, prefer CSS effects, core content must survive (id=2092105285955473656).
+10b. JS-heavy: Chrome JS off, compare to apple.com/iphone, prefer CSS effects, core content must survive (id=2092105285955473656). Extends: Google crawlers render JS; many AI chatbots do not. Check GSC live render or Frog Raw vs rendered (id=2094275636357714095).
 10c. CWV: CrUX Vis field data (origin + all, 28d, LCP / CLS / INP). Lighthouse / PSI = lab. Not the main lever (id=2092889660783722868).
 11. Mobile first screen has content; `<h1>` is on the first screen; cookie/ad overlays do not cover the fold. Test: GSC / Rich Results Test (id=2090686787534598639).
-12. Semantic HTML: MC lives in `<main>`, do not Div to the bottom (id=2090738619808088255).
+12. Semantic HTML: MC lives in `<main>`, do not Div to the bottom (id=2090738619808088255). **H1 = the ranking query of that page.** Beautiful empty prose / poetic non-entities Google cannot parse (id=2093224389605261381) (id=2093236681449332851).
 13. Login page present: scan QRG 8.4 — disclosure / firewall / register-recover / thin third-party login (id=2091376367740789153).
 14. Before URL / domain / rebrand: URL versions controlled, 301s one-to-one, SEO Review first (id=2091309003397902703).
+14b. Internal links: no tracking parameters (canonical does not save it in the moment) (id=2094278631296315660).
+14c. 千人千面 / personalization: which face does the crawler see? Cloaking-adjacent (id=2094314984310514045).
+14d. Huge-site: Crawl Budget Management is enterprise-required; Soft 404 is the load-bearing item; still no item-by-item playbook (id=2093665083486523872).
 
 After tech is level, rank is the page’s final form: every tag, word, alt, anchor vs the competitor’s final form (id=2091301352463102268).
 
 ### 7.4 Author entity
 
 15. Is each content page’s author a cross-checkable real person (resume, LinkedIn, background) (id=2033390752001335397).
-16. 优解: author LinkedIn ↔ site (plus GitHub / developer site if technical) (id=2091381622616797394) (id=2091198495197913207). Bidirectional LinkedIn required; patent US10599770B1 (id=2092468221794513075). Author must link back (id=2091755868954231087).
+16. 优解: author LinkedIn ↔ site (plus GitHub / developer site if technical) (id=2091381622616797394) (id=2091198495197913207). Bidirectional LinkedIn required; patent US10599770B1 (id=2092468221794513075). Also reverse-link + schema sameAs (id=2093250660125089901). Author must link back (id=2091755868954231087).
 17. Stop fake authors. If you must batch: Organization author, do not invent a person; if you got hit, delete (id=2091739865121783923). If you cannot verify, put no author, or put the site (id=2091744284668305427).
 
 ### 7.5 Keyword pick and page job
 
 18. Every page: what is this page for, what does it rank, is the query unique and searched (id=2090954259680694666) (id=2090938323284185332). 铺词 does not exist.
-19. Tools: lazy = AI + Ahrefs / DataForSEO; traditional = Semrush / Ahrefs; advanced = Trends; detail = funded Google Ads Planner (most accurate volume) (id=2092448668712645088). Older ability ladder still stands: Semrush / Ahrefs → Dataforseo → Keyword Planner → Trends. Split Trends by region; confirm users would actually search that way (id=2090954259680694666) (id=2091304086608236745). Product sites: day-1 query / title / h1 / url per page; do not find keywords then invent pages (id=2093181903579087176).
+19. Tools: lazy = AI + Ahrefs / DataForSEO; traditional = Semrush / Ahrefs; advanced = Trends; detail = funded Google Ads Planner (most accurate volume) (id=2092448668712645088). Older ability ladder still stands: Semrush / Ahrefs → Dataforseo → Keyword Planner → Trends. Split Trends by region; confirm users would actually search that way (id=2090954259680694666) (id=2091304086608236745). Later readout: Semrush now mostly trend screenshots; DataForSEO good-enough; Ahrefs relatively better data; Adobe/Semrush dunk is not a law (id=2094197271655231778). Product sites: day-1 query / title / h1 / url per page; do not find keywords then invent pages (id=2093181903579087176).
 20. When you look at KD, count the opponent’s SEO and content headcount on LinkedIn / careers pages. Do not send a fireteam at a battalion (id=2091668405367791619).
 21. Query you cannot open: pair competitor `<title>` tags on the SERP. Check duplicated titles, core entity missing, default title, verb/modifier match (id=2091682678261375106).
 22. Do not use KW Density (id=2091185632202883243). Do not treat DA as a cause (id=2091301352463102268).
@@ -1135,21 +1252,21 @@ After tech is level, rank is the page’s final form: every tag, word, alt, anch
 23. Does the batch have information increment? Original text / images / video / insights? Increment-free batch = low effort (id=2092090944648581505).
 24. Original ≠ stitching the top 10 (id=2091362717907251353). Token count ≠ Effort (id=2092095823731462302). Four-part high-quality: First-hand experience + Originality + Non-commodity + Effort (handwritten, not AI) (id=2092977176501228007).
 25. Quality is site-wide, not per-article. Spam on the site (stitching Agent, AI flood, soft-404 junk, Link Spam) taxes the whole site (id=2091353930425127142) (id=2090396597066899635).
-26. Huge volume: he only retold “internal ML class + actively No Index the junk.” No ready strategy for 100 / 1M / billion pages (id=2092027807719444899).
+26. Huge volume: he only retold “internal ML class + actively No Index the junk.” No ready strategy for 100 / 1M / billion pages (id=2092027807719444899). Crawl Budget Management is enterprise-required (Klook JD); Soft 404 is the load-bearing item (id=2093665083486523872).
 27. Money-adjacent: authority, expertise, compliance. After Trust breaks, buying links / fake authors / more blogs will not heal it (id=2033390752001335397) (id=2090697074153283687). Recovery is subtraction: disavow custom anchors, replace fake authors, 404 the junk, then reconsideration (id=2033817449922245047) (id=2037884887307526631). Do not promise “rank will jump.”
 
 ### 7.7 Engines, markets, GEO
 
 28. Entrance is Google.com (traditional Search / AI Mode / AI Overview / News / Discover / ecommerce / Image / Video) → do SEO. Crawl + Index are identical (id=2091364706703581191) (id=2091071455350169891).
 29. Gemini is not Search. You may *borrow* SEO theory; do not treat Search-team docs as a Gemini manual (id=2091364706703581191).
-30. Korean: Naver. Japanese: submit Bing Webmaster (Yahoo JP uses Google; every other Yahoo uses Bing) (id=2075237380844654947) (id=2091014853863637176).
-31. Multilingual: no IP auto-jump; copy Apple’s top banner (id=2091014853863637176). Official “避免 / 请勿” = do not / execute (id=2091807896053101013).
-32. Asked GEO: underlying job is optimize brand and site entity so an LLM will recommend you (id=2091727382726205949). Construction ≠ making the model lean toward you (id=2033335605925654664). Do not hand over blog / Reddit / schema / FAQ / PR as required homework (id=2079109647160734202). Language lock: AI Search is still language-isolated; multilingual if you want AI-platform exposure (id=2092248676324520232). **How-to is no procedure in corpus.** If the brand is non-English, state the structural LLM disadvantage as an observation (id=2034056213529563637) (id=2034056920827629816) — no invented English-citation SOP. Do not build a GEO tracker first (id=2092224165646622937).
+30. Korean: Naver. Japanese: submit Bing Webmaster (Yahoo JP uses Google; every other Yahoo uses Bing) (id=2075237380844654947) (id=2091014853863637176). Bing / IndexNow / engine routing: ChatGPT / Copilot / Yahoo use Bing; Claude uses Bing; Gemini uses Google; ChatGPT uses Bing (id=2093355461303218245) (id=2093336738643275842). Engine routing only — no Bing ranking SOP.
+31. Multilingual: no IP auto-jump; copy Apple’s top banner (id=2091014853863637176). CN + overseas: overseas `.com` then language/region; China `.com.cn` or `.cn` (id=2093339633614754128). Official “避免 / 请勿” = do not / execute (id=2091807896053101013). hreflang fine-config still **no procedure in corpus**.
+32. Asked GEO: underlying job is optimize brand and site entity so an LLM will recommend you (id=2091727382726205949). Construction ≠ making the model lean toward you (id=2033335605925654664). Do not hand over blog / Reddit / schema / FAQ / PR as required homework (id=2079109647160734202). Language lock: AI Search is still language-isolated; multilingual if you want AI-platform exposure (id=2092248676324520232). Restated (non-CN-AI): input language + English; all brands → multilingual / international SEO (id=2093347878098042898) — id append, not a playbook. GEO / AI rec = brand + WOM + ads (id=2093880423529193882). If AEO/GEO = Google + Microsoft, do Foundation (id=2094038466304868359). **How-to is no procedure in corpus.** If the brand is non-English, state the structural LLM disadvantage as an observation (id=2034056213529563637) (id=2034056920827629816) — no invented English-citation SOP. Do not build a GEO tracker first (id=2092224165646622937). China GEO 规范: named, do not import PDF (id=2093578005176353204). Xiaohongshu as overseas-Chinese “search engine” is observation, not author-EEAT (id=2093710749608882680).
 32b. Local / GBP: Bing Business + Apple Business; on-site map / address / phone / schema / Contact; GBP work must exist on the site (id=2092207366305681808).
 
 ### 7.8 Close: hypothesis, test, measure, iterate
 
-33. Every change is a hypothesis, not magic (id=2091844216980979877). His `[once]` model: Ranking = (Technical Foundation + Quality) * Brand Reputation — do not turn into a scorecard (id=2093195666847879327).
+33. Every change is a hypothesis, not magic (id=2091844216980979877). His `[once]` model: Ranking = (Technical Foundation + Quality) * Brand Reputation — do not turn into a scorecard (id=2093195666847879327). Real case `[asserted]`: tech foundation +~30% → 1.2M US peak; PM/boss anti-SEO undoes it (id=2093240810418704442).
 34. GSC Generative AI / Bing Total Citations may be watched, not treated as KPIs. Ask whether citations map to conversion, and whether AI-referred conversion clears 5% of the site (id=2088839484083404844).
 35. Separate in the output: next steps that have a procedure / cells with no procedure in corpus / evidence grade (in-corpus rule / `[once]` / `[asserted case]`). Decision stays with the operator. Absolute source lines get a tag, not treated as orders.
 

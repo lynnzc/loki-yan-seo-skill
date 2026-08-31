@@ -1,6 +1,6 @@
 # Dimension: rejections (English)
 
-Source: `@loki_yan_seo` authored tweets only. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other people's replies are ignored. No blog, no decks, no imported SEO frameworks.
+Source: `@loki_yan_seo` authored tweets only. Window **2025-07-11 → 2026-08-31 UTC**. Last full public-post count remains **979**. Loki-authored **+165** since last cutoff (was 689; now 854). Other people's replies are ignored. No blog, no decks, no imported SEO frameworks.
 
 Two rejection types used throughout:
 
@@ -449,4 +449,18 @@ Use this as the index. Type tag: `C` = rejects metric as causal; `P` = rejects t
 | 2092387406242787628 / 2092380170426765423 | Start many businesses with SEO when there is no demand / no 种草 | entire-practice | Paid / other channels when ROAS works |
 | 2092207366305681808 | GBP with no on-site NAP | entire-practice | GBP / Bing Business / Apple Business as ops |
 | 2092248676324520232 | (not a rejection of multilingual) — do not treat language-lock as a GEO how-to | keep tension | Mechanism only |
+
+## 2026-08-31 delta (append)
+
+| id | quote / meaning | type | still a panel? |
+|---|---|---|---|
+| 2093224389605261381 / 2093236681449332851 | Beautiful empty / poetic H1 Google cannot parse; skip H1 then chase sesame | entire-practice | H1 = ranking query |
+| 2094278631296315660 | Tracking params on internal links | entire-practice | Canonical does not save it in the moment |
+| 2094314984310514045 | 千人千面 vs crawler | entire-practice (cloaking-adjacent) | — |
+| 2094335458423742688 | Cloaking / insert keywords only when UA is a crawler; spam dual track | entire-practice | Official spam-policies doc |
+| 2093475631803826251 | Blog-only site as AI Mode answers | entire-practice | Money page still required |
+| 2094197271655231778 | Semrush as ranking-data truth (mostly trend screenshots now) | metric-as-causal | Ahrefs relatively better; DataForSEO good-enough; KW Planner still most accurate |
+| 2093710749608882680 | (not a rejection of XHS-as-search observation) — do not upgrade to Google author EEAT | keep tension | Old rejection 2091381622616797394 stands |
+| 2093347878098042898 | (not a rejection of multilingual) — do not treat restated language-lock as a GEO how-to | keep tension | Mechanism only |
+| 2093542304372129882 | “WP is unusable” as overseas-SEO stance | entire-practice of that claim `[once]` | Shopify still 2026 ecommerce line — keep both, scoped |
 

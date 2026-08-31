@@ -1,6 +1,6 @@
 # Repeated claims (English)
 
-Source: `@loki_yan_seo` authored posts and replies only. Last full public-post count remains **979** (367 originals / 588 replies / 24 reposts). Loki-authored **+156** since last cutoff (was 533; now 689). Full originals/replies/reposts recount was not rerun. Window: 2025-07-11 → 2026-08-28 UTC.
+Source: `@loki_yan_seo` authored posts and replies only. Last full public-post count remains **979** (367 originals / 588 replies / 24 reposts). Loki-authored **+165** since last cutoff (was 689; now 854). Full originals/replies/reposts recount was not rerun. Window: 2025-07-11 → 2026-08-31 UTC.
 
 A claim lands here if he said it more than once, or said it once as a hard law (必须 / 肯定 / 不存在 / 直接会被干 / 请勿：枪毙 / “I am very sure”). English statements are his **meaning**, not a voice imitation. Quotes keep his words (Chinese left as-is when that is the original). Frequency = distinct tweet ids.
 
@@ -670,7 +670,7 @@ Tempting SEO / GEO ideas that **do not appear** as something he insists is true.
 - E-E-A-T as a score you game with badges, decorative bylines, or author-box widgets. He wants a real, cross-checkable person + LinkedIn (or GitHub), not a fake profile.
 - DA / DR buying, PBN, expired-domain ranking as a *recommended* white-hat path. He describes them as affiliate / black-hat timing plays, not as what to do.
 - Core Web Vitals as *the* ranking lever. He now gave a CrUX field-data panel (2092889660783722868). Still not the main lever.
-- Internal-linking systems, log-file analysis, crawl-budget optimization as a taught playbook. Crawl budget shows up as a *reason* soft 404 is dangerous.
+- Internal-linking systems, log-file analysis, crawl-budget optimization as a taught playbook. Crawl Budget Management is now named as enterprise-required (2093665083486523872); still no item-by-item playbook. Do not put tracking params on internal links (2094278631296315660).
 - Featured snippets / PAA / “optimize for position zero.”
 - Generic Local-SEO encyclopedias beyond the GBP procedure (2092207366305681808).
 - Hreflang implementation notes (the word appears inside a quoted Klook JD).
@@ -688,7 +688,7 @@ Tempting SEO / GEO ideas that **do not appear** as something he insists is true.
 - **46** numbered claims (every row has tweet id + quote).
 - **12** extra once/hard-law lines in the table (some overlap the numbered “once” claims), plus 2 question-only rows (Bing citations; Navboost).
 - **8** strongest laws listed at the top.
-- Window through 2026-08-28. Loki-authored increment +156; full public-post recount not rerun.
+- Window through 2026-08-31. Loki-authored increment +165 (689 → 854); full public-post recount not rerun.
 - Required inclusions present: non-English brands (#31, ids 2034056213529563637, 2034056920827629816); AI × 信息茧房 / asymmetry (#32, id 2034056213529563637).
 
 ---
@@ -707,4 +707,32 @@ New Loki-authored doctrine since the 2026-08-25 cutoff. Same ids as methodology.
 - **He is not a 出海 / 新站 expert** (2093165450708537490, 2092722291243458579): Agency / In-house mid/late. Product-first IA (2093181903579087176): day-1 query / title / h1 / url; do not find keywords then invent pages.
 - **出海 category pick** (2092174932323311912): `[once]` / `[asserted, hypothetical]`. Volume, long dwell, mobile-app 三吃, competitor bullets, Effort, sell shovels, studio + products, io/technology/ai/asia, LinkedIn + GitHub. Not a default new-site SOP.
 - **Screaming Frog is the one must-have** (2092784685650997342): other tools optional. Lumar + Botify = enterprise Frog; skip at mid-size (2092723929249132561).
+
+## 2026-08-31 delta (append)
+
+New Loki-authored doctrine after id 2093195666847879327. Do not overwrite the numbered laws above.
+
+- **H1 = ranking query** (2093224389605261381, 2093236681449332851): 「理论上 每一个页面的H1 都应该 要放 你这个页面要排名的关键字。」 Beautiful empty prose as H1: 「用优美的文字描述不存在是实体，谷歌是看不懂的。」 People skip H1 then chase sesame.
+- **sameAs / reverse-link** (2093250660125089901): 「还要反过来连，然后做sameAs」 — strengthens LinkedIn two-way.
+- **Ranking-model case `[asserted]`** (2093240810418704442): Technical Foundation +~30% → peak 1.2M US traffic; PM/boss anti-SEO undoes it.
+- **CN + overseas IA** (2093339633614754128): copy Apple/Canva; overseas `.com` + language/region; China `.com.cn` or `.cn`. hreflang fine-config still no procedure.
+- **Language-lock restated** (2093347878098042898): GEO two languages (non-CN-AI) = input + English. All brands → multilingual / international SEO. Id append, not a GEO playbook. How-to still missing (2091727382726205949).
+- **Bing / IndexNow / engine routing** (2093355461303218245, 2093336738643275842): IndexNow; ChatGPT/Copilot/Yahoo use Bing; Claude uses Bing, Gemini uses Google, ChatGPT uses Bing. No Bing ranking SOP.
+- **Blog-only decline** (2093475631803826251): AI Mode answers; users like summaries; money page still required.
+- **WordPress `[once]`** (2093542304372129882): overseas SEO default. Scoped vs Shopify (content/sites vs 2026 ecommerce). Keep both.
+- **Crawl Budget Management** (2093665083486523872): enterprise-required (Klook JD). Soft 404 load-bearing. No item-by-item playbook.
+- **Xiaohongshu observation** (2093710749608882680): overseas-Chinese “search engine”; if it did SEO would rival Reddit and affect Gemini/ChatGPT Chinese recs. **Not** Google author EEAT.
+- **GEO = brand + WOM + ads** (2093880423529193882). If AEO/GEO = Google+Microsoft, do Foundation (2094038466304868359).
+- **Tool ladder readout** (2094197271655231778): Semrush mostly trend screenshots; DataForSEO good-enough; Ahrefs relatively better. Adobe dunk is not a law.
+- **JS: Google renders; chatbots often do not** (2094275636357714095). Extends JS-off.
+- **No tracking params on internal links** (2094278631296315660). Canonical does not save it in the moment.
+- **千人千面 vs crawler** (2094314984310514045): which face does the crawler see? Cloaking-adjacent.
+- **Spam policy dual track** (2094335458423742688): algorithm + Manual Action; spam costs Google money. Cloaking first named item.
+- **YMYL restatement** (2094255508668793056): money categories. Append id.
+- **Expired-domain abuse** (2093547820808896687): domain bound to a topic.
+- **Impossible triangle restated** (2093958829264507180): volume / speed / effect; no money then spend time.
+- **Intuition vs skill** (2094237557530013922): 5-minute site look from old-school thought. Aligns with don’t-mechanical-SOP.
+- **People-as-asset, light** (2093217297284645300): quality writing can rank and pay. Not SOP.
+- **Search Central YouTube 101** (2094325559820197987): learning-path id append.
+- **孙哥 Effort restatement** (2093219112067760489): First-hand + Original + Effort (handwritten hours). Id append to quality four-part, not a 孙哥 SOP.
 

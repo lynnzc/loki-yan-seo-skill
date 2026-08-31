@@ -1,6 +1,6 @@
 # @loki_yan_seo glossary — named terms / mechanisms (English)
 
-Source: his own posts / replies. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other people's tweets and **repost** bodies are not his definitions.
+Source: his own posts / replies. Window **2025-07-11 → 2026-08-31 UTC**. Last full public-post count remains **979**. Loki-authored **+165** since last cutoff (was 689; now 854). Other people's tweets and **repost** bodies are not his definitions.
 
 Rule: define only in his words. English below is a tight rendering of what he wrote (his English left as-is). If he used a name and never defined it, the entry records **usage only** — no industry fill-in.
 
@@ -827,4 +827,54 @@ Corpus boundary: last full public-post count remains 979; Loki-authored +156 sin
 ### site reputation abuse / ghost writing
 **He said:** Third-party content machines on a publisher’s authority. He walked a recovery cycle. Do not buy the service.
 **ids:** 2092557180755144890
+
+## 2026-08-31 delta (append)
+
+### H1 = ranking query
+**He said:** Theoretically every page’s H1 should carry the keyword that page is meant to rank for. Beautiful empty prose / poetic non-entities: “谷歌是看不懂的.”
+**ids:** 2093224389605261381, 2093236681449332851
+
+### sameAs
+**He said:** “还要反过来连，然后做sameAs.”
+**ids:** 2093250660125089901
+
+### IndexNow / Bing routing
+**He said:** Do Bing; IndexNow. ChatGPT / Copilot / Yahoo use Bing. “Claude uses Bing, Gemini uses Google, ChatGPT uses Bing.” Engine routing, not a Bing ranking SOP.
+**ids:** 2093355461303218245, 2093336738643275842
+
+### CN/overseas TLD split
+**He said:** Copy Apple/Canva. Overseas unified `.com` then language/region. China `.com.cn` or `.cn`. Rest to the engines.
+**ids:** 2093339633614754128
+
+### internal-link params
+**He said:** Do not put tracking parameters on internal links. Anti-crawler / anti-Google. Canonical does not save it in the moment. Clean URL = one ID card.
+**ids:** 2094278631296315660
+
+### 千人千面
+**He said:** Product wants customized recommendation; “你给爬虫看哪一面？” Cloaking-adjacent.
+**ids:** 2094314984310514045
+
+### Crawl Budget Management
+**He said:** Enterprise-required (Klook JD). 10 pages ≠ 1M ≠ 10M. Soft 404 is the most important point. No item-by-item playbook.
+**ids:** 2093665083486523872
+
+### WordPress (overseas default)
+**He said:** `[once]` In overseas Digital Marketing / SEO, WordPress is the default; people who say WP is unusable usually never did overseas SEO. Ecosystem 120% SEO-adapted. Scoped vs Shopify.
+**ids:** 2093542304372129882
+
+### Microsoft Clarity
+**He said:** Free session heatmap / UI-UX panel. Later Bing GEO dashboard. Tool, not a ranking cause.
+**ids:** 2093511886683951613
+
+### spam policy dual track
+**He said:** Google spam policy is dual-track: algorithm + Manual Action. Spam costs Google money. Cloaking first named item.
+**ids:** 2094335458423742688
+
+### expired domain abuse
+**He said:** A domain may carry a topic. Google has expired domain abuse as a spam punishment. Domain should bind to a category.
+**ids:** 2093547820808896687
+
+### Language Lock (restated)
+**He said:** GEO two languages (non-CN-AI): input language + English. AI will not assemble other languages for you. All brands → multilingual / international SEO. Not a GEO how-to.
+**ids:** 2093347878098042898 (plus 2092248676324520232)
 

@@ -4,7 +4,7 @@ Unofficial Agent Skill. Turns Loki Yan ([@loki_yan_seo](https://x.com/loki_yan_s
 
 Use it for Google SEO, international / cross-border sites, technical SEO, EEAT / Trust, AI Overviews / AI Mode, or GEO questions.
 
-Distilled bottom-up from **979 public posts** (367 originals, 588 replies, 24 reposts; last full recount). Updated through **2026-08-28**; **689** Loki-authored (+156 since last cutoff; full originals/replies/reposts recount not rerun).
+Distilled bottom-up from **979 public posts** (367 originals, 588 replies, 24 reposts; last full recount). Updated through **2026-08-31**; **854** Loki-authored (+165 since last cutoff; full originals/replies/reposts recount not rerun).
 
 ## Install
 

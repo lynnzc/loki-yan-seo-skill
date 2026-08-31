@@ -23,3 +23,11 @@ Window through 2026-08-28 UTC. Loki-authored +156 (533 → 689). Full public-pos
 Appended: ranking model, GBP procedure, GEO language-lock, quality four-part, CWV field panel, backlink leak experiment, new-site caveat, product-first IA, keyword ladder refresh, Frog must-have, author-vector patent, cases (Lark, SRA/ghost writing, DR80+ cloaking, anti-crawl, Wayback malware, GEO-tracker dunk).
 
 Tensions live in methodology §6: GEO how-to missing vs language-lock multilingual; he is not a 新站 expert vs product-first IA he did give. Do not overwrite old laws.
+
+## 2026-08-31 delta
+
+Window through 2026-08-31 UTC. Loki-authored +165 (689 → 854). Full public-post recount not rerun; `posts` stays 979.
+
+Appended: H1 = ranking query; sameAs; Bing/IndexNow + engine routing; internal-link params; 千人千面; crawl budget as enterprise-required; WordPress `[once]` scoped vs Shopify; Clarity as panel; blog-only decline; CN TLD split; language-lock restated; GEO = brand/WOM/ads; Foundation if Google+Microsoft; JS crawler-vs-chatbot; spam dual track; YMYL money-categories; expired-domain abuse.
+
+Tensions live in methodology §6: XHS vs author-EEAT; WP vs Shopify; language-lock restated vs GEO how-to missing. Do not overwrite old laws.

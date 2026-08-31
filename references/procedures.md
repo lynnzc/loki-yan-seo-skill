@@ -1,6 +1,6 @@
 # Procedures
 
-Source: `@loki_yan_seo` only. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other accounts in the same threads are not sources. No blog. No decks. No Day 0 / three-reversals / 5-step FO / CRO framework / hreflang recipe / Top Stories / feed-hack SOP imported from outside.
+Source: `@loki_yan_seo` only. Window **2025-07-11 → 2026-08-31 UTC**. Last full public-post count remains **979**. Loki-authored **+165** since last cutoff (was 689; now 854). Other accounts in the same threads are not sources. No blog. No decks. No Day 0 / three-reversals / 5-step FO / CRO framework / hreflang recipe / Top Stories / feed-hack SOP imported from outside.
 
 English only. His English is kept as-is. Chinese is a tight rendering of what he said. Names and steps keep **his** meaning. Incomplete means the tweets stop before a method.
 
@@ -912,4 +912,51 @@ Bidirectional LinkedIn required. Patent US10599770B1.
 
 ### Optional tool note (not a procedure)
 GA MCP if tagging / tracking already done (id=2092210684503503245).
+
+## 2026-08-31 delta (append)
+
+### 46. H1 = ranking query
+**When:** Page HTML (id=2093224389605261381, 2093236681449332851)
+1. H1 should carry the keyword that page is meant to rank for.
+2. Poetic non-entities / beautiful empty prose: Google cannot parse.
+No H1 template.
+
+### 47. sameAs
+**When:** Entity (id=2093250660125089901)
+Reverse-link, then schema sameAs. No JSON-LD template.
+
+### 48. CN + overseas TLD split
+**When:** Brand does China + overseas (id=2093339633614754128)
+Copy Apple/Canva. Overseas `.com` then language/region. China `.com.cn` or `.cn`. hreflang fine-config: `[no procedure in corpus]`.
+
+### 49. Bing / IndexNow / engine routing
+**When:** Not Google-only (id=2093355461303218245, 2093336738643275842)
+IndexNow. ChatGPT/Copilot/Yahoo use Bing. Claude uses Bing; Gemini uses Google; ChatGPT uses Bing. **Do not invent a Bing ranking SOP.**
+
+### 50. JS: Google renders; chatbots often do not
+**When:** JS-heavy / AIO (id=2094275636357714095)
+Extends JS-off. Check GSC live-index render or Frog Raw vs rendered. Official JS SEO basics link only.
+
+### 51. No tracking params on internal links
+**When:** PMs want UTM on internal links (id=2094278631296315660)
+Anti-crawler. Canonical does not save it in the moment. Collect server-side. Clean URL = one ID card.
+
+### 52. 千人千面 vs crawler
+**When:** Product wants personalization (id=2094314984310514045)
+“你给爬虫看哪一面？” Cloaking-adjacent. No test script.
+
+### 53. Crawl Budget Management
+**When:** Enterprise / huge site (id=2093665083486523872)
+Know URL count, indexed vs not, what was crawled. Soft 404 is the most important point. Item-by-item playbook: `[no procedure in corpus]`.
+
+### 54. Spam policy dual track
+**When:** Cloaking / spam requests (id=2094335458423742688)
+Algorithm + Manual Action. Throw official spam-policies doc. Appends to existing Manual Action.
+
+### Optional tool / stack notes
+- Microsoft Clarity: session heatmap, free panel. Not a ranking cause (id=2093511886683951613).
+- WordPress `[once]`: overseas SEO default. Scoped vs Shopify (id=2093542304372129882).
+- Search Central YouTube 101 (id=2094325559820197987).
+
+Gaps still `[no procedure in corpus]`: GEO how-to, hreflang fine-config, Bing ranking SOP, crawl-budget item-by-item, China GEO 规范 as imported doctrine.
 

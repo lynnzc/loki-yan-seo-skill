@@ -1,6 +1,6 @@
 # Dimension: cases, war stories, talks, leaks, named sites
 
-Source: `@loki_yan_seo` tweets only. Window **2025-07-11 → 2026-08-28 UTC**. Last full public-post count remains **979**. Loki-authored **+156** since last cutoff (was 533; now 689). Other people's tweets in the same threads are not sources. No blog. No decks. No prior skill.
+Source: `@loki_yan_seo` tweets only. Window **2025-07-11 → 2026-08-31 UTC**. Last full public-post count remains **979**. Loki-authored **+165** since last cutoff (was 689; now 854). Other people's tweets in the same threads are not sources. No blog. No decks. No prior skill.
 
 A **case** here is a named incident: a client or prospect disaster, an experiment with a before/after, a talk he gave or sat, a leak he tore down, a specific site or keyword he worked, or a question he put to Gary / Google staff.
 
@@ -846,4 +846,36 @@ Asserted unless he shows artifacts.
 ### 49. GA MCP (optional tool, not a case-law)
 **Proof:** in-corpus for the developers.google.com MCP URL.
 **ids:** 2092210684503503245
+
+## 2026-08-31 delta (append)
+
+### 50. Technical foundation +~30% → 1.2M US, then undone
+**Proof:** asserted. No site, no GSC.
+**What happened:** “Techinical Foundation 修了30% / 就到了月 峰值 1.2 M 美国流量.” Then PM/boss anti-SEO; “一朝回到解放前.”
+**He claims:** Ranking model live. SEO is a business/team job.
+**ids:** 2093240810418704442
+
+### 51. GetYourGuide travel SEO
+**Proof:** asserted reading of a named public site.
+**What happened:** Travel among the most competitive (after 黄赌金融 web3 news real estate). GetYourGuide: 230+ real travel authors × all languages; UGC reviews/photos; full-language translation.
+**He claims:** PSEO amplifies Authority (people, real photos, real reviews) — not junk pages.
+**ids:** 2093334205669499139
+
+### 52. 上岸 / inbound China travel demand
+**Proof:** asserted observation. Not SOP.
+**What happened:** Visa-open inbound; WeChat/Dianping vs Google Maps friction; ChatGPT 10-day China itinerary as a bad plan.
+**He claims:** Understand pain, do not just chase keywords.
+**ids:** 2093925562784063874
+
+### 53. Aleyda 171-expert survey (excerpted)
+**Proof:** [asserted, third-party]. Not his measurement. Optional references only.
+**ids:** 2094003420739035641
+
+### 54. Performance Marketing vs SEO agency beef
+**Proof:** asserted culture note, not SOP.
+**ids:** 2093510115894935919
+
+### 55. China GEO 规范 named
+**Proof:** in-corpus for the Xinhua PDF URL. Do **not** import the PDF as doctrine.
+**ids:** 2093578005176353204
 
