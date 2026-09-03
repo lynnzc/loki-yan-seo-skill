@@ -1,6 +1,6 @@
 # Repeated claims (English)
 
-Source: `@loki_yan_seo` authored posts and replies only. Last full public-post count remains **979** (367 originals / 588 replies / 24 reposts). Loki-authored **+165** since last cutoff (was 689; now 854). Full originals/replies/reposts recount was not rerun. Window: 2025-07-11 → 2026-08-31 UTC.
+Source: `@loki_yan_seo` authored posts and replies only. Last full public-post count remains **979** (367 originals / 588 replies / 24 reposts). Loki-authored **+23** since last cutoff (was 854; now 877). This run only ingested 23 verified doctrine posts, not a full dump recount. Full originals/replies/reposts recount was not rerun. Window: 2025-07-11 → 2026-09-03 UTC.
 
 A claim lands here if he said it more than once, or said it once as a hard law (必须 / 肯定 / 不存在 / 直接会被干 / 请勿：枪毙 / “I am very sure”). English statements are his **meaning**, not a voice imitation. Quotes keep his words (Chinese left as-is when that is the original). Frequency = distinct tweet ids.
 
@@ -688,7 +688,7 @@ Tempting SEO / GEO ideas that **do not appear** as something he insists is true.
 - **46** numbered claims (every row has tweet id + quote).
 - **12** extra once/hard-law lines in the table (some overlap the numbered “once” claims), plus 2 question-only rows (Bing citations; Navboost).
 - **8** strongest laws listed at the top.
-- Window through 2026-08-31. Loki-authored increment +165 (689 → 854); full public-post recount not rerun.
+- Window through 2026-09-03. Loki-authored increment +23 (854 → 877); this run only ingested 23 verified doctrine posts, not a full dump recount; full public-post recount not rerun.
 - Required inclusions present: non-English brands (#31, ids 2034056213529563637, 2034056920827629816); AI × 信息茧房 / asymmetry (#32, id 2034056213529563637).
 
 ---
@@ -736,3 +736,23 @@ New Loki-authored doctrine after id 2093195666847879327. Do not overwrite the nu
 - **Search Central YouTube 101** (2094325559820197987): learning-path id append.
 - **孙哥 Effort restatement** (2093219112067760489): First-hand + Original + Effort (handwritten hours). Id append to quality four-part, not a 孙哥 SOP.
 
+## 2026-09-03 delta (append)
+
+New Loki-authored doctrine after id 2094335458423742688. This run only ingested 23 verified doctrine posts. Do not overwrite the numbered laws above.
+
+- **Brave Search / Claude** (2094338319807078577): 「Claude 用的是 Brave Search API。」 Brave has its own crawler/index. Check not blocking Brave; Brave likely does not render JS → SPA fails, need SSR; submit https://search.brave.com/submit-url; no webmaster tool → 「纯血SEO」. Keep tension with Claude→Bing (2093355461303218245). Not a GEO how-to.
+- **IndexNow Google out** (2094396130427900220): 「谷歌不支持，谷歌不支持，谷歌不支持」. Connect Bing, Naver, Yandex. https://www.indexnow.org/ Tightens existing Bing/IndexNow. No Bing ranking SOP.
+- **AI Slop / PSEO KPI** (2094431347851055262): PSEO junk to punch KPI then jump ship. Restates PSEO/spam.
+- **YMYL L = Life** (2094438099694833690): L is Life; Google invests in medical SERPs (莆田系 contrast).
+- **llms.txt no-regret** (2094440229482721382): not causal for AI recommendation; doing it will not hurt. Keep Search/AIO ignore + optional for chatbots.
+- **Handwritten dry-goods experiment `[asserted]`** (2094551785461764302): 5000 followers / 10 days. Human writing still gets seen. Light, not a growth SOP.
+- **HCU must practice** (2094576318788833400): named Helpful Content Update. Points at article 2094559188676734976. Do **not** import the article body.
+- **Person/social carrier `[once/experiment]`** (2094615467981930559): future SEO can be the person if site/brand weak; X-account SEO; Chinese as low-hanging fruit. Not a quit-the-site SOP.
+- **X Articles** (2094635693993832480): logged-out blog-like pages; Article schema + isAccessibleForFree. Optional channel.
+- **Manus /updates + changelog** (2094710822136418378, 2094711722024325186): product updates pages rank core product queries. Changelog/log helps any outbound product (like git commits).
+- **Own product = fastest Effort/Originality** (2094726807568478504).
+- **SaaS Trust as QRG online-store** (2094935978851078531): payment + customer service; Stripe; Trust/Help/Contact. DNA of a real product.
+- **FAQ not every page** (2095122990493282767, 2095157057255268605, 2095157590301061376): Google dropped FAQ rich results. FAQ for user questions (buying). Service/product maybe; blogs usually not. Intuition.
+- **CN Shopify auto-blogs Spam Hit `[asserted]`** (2095159020072124578): 3–4 CN electronics cross-border Shopify sites. Ecommerce blogs OK only for product/feature/own Guide. Shopify still better architecture; K is the domain (2095320035690725505, 2095344173826363791). Keep Shopify `[overclaim]` AND WordPress `[once]` scoped.
+- **PageSpeed after product+content** (2095287266247836131, 2095288889506443712): PageSpeed does not improve content. Content is the ranking key. Authority is another layer. Aligns with CWV-not-main-lever.
+- **Fake as hard as real** (2095347481655840877, 2095348801607491906): fake authors/profiles. Expert-as-author needs a real Profile. YMYL money/health/web3.

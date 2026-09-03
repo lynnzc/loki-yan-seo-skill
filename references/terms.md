@@ -878,3 +878,68 @@ Corpus boundary: last full public-post count remains 979; Loki-authored +156 sin
 **He said:** GEO two languages (non-CN-AI): input language + English. AI will not assemble other languages for you. All brands → multilingual / international SEO. Not a GEO how-to.
 **ids:** 2093347878098042898 (plus 2092248676324520232)
 
+## 2026-09-03 delta (append)
+
+### Brave Search / Claude
+**He said:** Claude uses Brave Search API. Brave has its own crawler and index. Check not blocking Brave. Brave likely does not render JS so SPA fails — do SSR. Submit URL. No webmaster tool → pure SEO. Tension with earlier Claude→Bing.
+**ids:** 2094338319807078577
+
+### IndexNow (Google out)
+**He said:** IndexNow lets you push new URLs to some engines. Google does not support it (said three times). Connect Bing, Naver, Yandex. https://www.indexnow.org/
+**ids:** 2094396130427900220
+
+### AI Slop (KPI)
+**He said:** AI Slop — not that it will not be punished, the time has not come. PSEO junk for short-term KPI then jump ship.
+**ids:** 2094431347851055262
+
+### YMYL L = Life
+**He said:** The L in YMYL is Life. Google invests in medical search (莆田系 contrast).
+**ids:** 2094438099694833690
+
+### LLM.txt (no-regret)
+**He said:** Doing LLM.txt is not causal for AI recommendation; doing it will not hurt. Keep Search/AIO ignore + optional for chatbots.
+**ids:** 2094440229482721382 (plus 2071840010593358218)
+
+### HCU (must practice)
+**He said:** People doing Google SEO must practice HCU (Helpful Content Update). He practiced it on X. Points at article 2094559188676734976. Do not import the article body.
+**ids:** 2094576318788833400
+
+### person/social carrier
+**He said:** Future SEO may not be only the site — it can be you as the carrier. If site/brand weak, start from social. X-account SEO. Chinese as low-hanging fruit. `[once/experiment]`. Not quit-the-site.
+**ids:** 2094615467981930559
+
+### X Articles
+**He said:** Logged-out X Articles are blog-like pages, SEO’d, Article schema, isAccessibleForFree. Optional channel.
+**ids:** 2094635693993832480
+
+### product /updates log
+**He said:** Manus updates pages rank core product queries; not coincidence. A product-update log helps any outbound product (like git commits).
+**ids:** 2094710822136418378, 2094711722024325186
+
+### own product (Effort)
+**He said:** Your own product is the fastest way to raise Originality and Effort.
+**ids:** 2094726807568478504
+
+### SaaS Trust / QRG store
+**He said:** QRG Trust for Online Stores: secure payment + reliable customer service. SaaS is part of online stores. Stripe mention/logo; Trust/Help/Contact. DNA of a real product.
+**ids:** 2094935978851078531
+
+### FAQ (not every page)
+**He said:** Google dropped FAQ rich results. Don’t FAQ every page/blog. FAQ is for user questions (buying). Service/product maybe; blogs usually not. Intuition.
+**ids:** 2095122990493282767, 2095157057255268605, 2095157590301061376
+
+### ecommerce auto-blogs / Shopify vs K
+**He said:** 3–4 CN electronics cross-border Shopify sites auto-blogging were Spam Hit. Blogs OK only for product/feature/own Guide. Shopify better ecommerce architecture; being K’d is the domain.
+**ids:** 2095159020072124578, 2095320035690725505, 2095344173826363791
+
+### PageSpeed (after product+content)
+**He said:** PageSpeed only matters when you already have good product and content. PageSpeed does not improve content. Content is the ranking key. Authority is another layer.
+**ids:** 2095287266247836131, 2095288889506443712
+
+### fake as hard as real
+**He said:** Faking authors/profiles is as hard as doing it real. Expert-as-author needs a real Profile. YMYL money/health/web3.
+**ids:** 2095347481655840877, 2095348801607491906
+
+### handwritten dry-goods experiment
+**He said:** 10 days to 5000 followers. Pure handwritten dry goods still get seen. Light `[asserted]`, not a growth SOP.
+**ids:** 2094551785461764302

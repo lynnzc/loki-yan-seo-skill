@@ -960,3 +960,71 @@ Algorithm + Manual Action. Throw official spam-policies doc. Appends to existing
 
 Gaps still `[no procedure in corpus]`: GEO how-to, hreflang fine-config, Bing ranking SOP, crawl-budget item-by-item, China GEO 规范 as imported doctrine.
 
+## 2026-09-03 delta (append)
+
+### 55. Brave Search / Claude routing
+**When:** Claude / Brave / JS-heavy SPA (id=2094338319807078577)
+1. Claude uses Brave Search API. Brave has its own crawler/index.
+2. Check not blocking Brave.
+3. Brave likely does not render JS → SPA fails; do SSR.
+4. Submit https://search.brave.com/submit-url
+5. No webmaster tool → pure SEO.
+Keep tension with Claude→Bing. Not a GEO how-to.
+
+### 56. IndexNow — Google out
+**When:** IndexNow / Bing / Naver / Yandex (id=2094396130427900220)
+Google does not support IndexNow (said three times). Connect Bing, Naver, Yandex. https://www.indexnow.org/ Tightens §49. **Do not invent a Bing ranking SOP.**
+
+### 57. FAQ — not every page
+**When:** Copycat FAQ on every page/blog (id=2095122990493282767, 2095157057255268605, 2095157590301061376)
+Google dropped FAQ rich results. FAQ is for user questions (e.g. buying). Service/product pages may still have FAQ; blogs usually not. Intuition.
+
+### 58. SaaS Trust as QRG online-store
+**When:** SaaS / money Trust (id=2094935978851078531)
+Payment system + customer service named. Stripe mention/logo. Trust / Help / Contact. DNA of a real product, not a bolted SEO kit. Manus: pricing → trust.manus.im; help.manus.im/en.
+
+### 59. Product /updates changelog
+**When:** Outbound / AI product (id=2094710822136418378, 2094711722024325186)
+Extends AI-product changelog. `/updates` pages can rank core product queries. A log page helps any outbound product (like git commits).
+
+### 60. Ecommerce blogs / Foundation first
+**When:** Shopify / ecommerce content (id=2095159020072124578, 2095320035690725505, 2095344173826363791)
+Blogs OK only for product / feature / own Guide. Do not auto-generate related long-tail blogs while PDP / Collection / Foundation is broken. Shopify still better ecommerce architecture; being K’d is the domain. Keep Shopify `[overclaim]` AND WordPress `[once]` scoped.
+
+### 61. PageSpeed after product+content
+**When:** Someone leads with PageSpeed (id=2095287266247836131, 2095288889506443712)
+Only when product AND content are already good. PageSpeed does not improve content. Content is the ranking key. Authority is another layer. Aligns with CWV-not-main-lever.
+
+### 62. HCU — named; pointer only
+**When:** Helpful Content (id=2094576318788833400)
+Must practice HCU. Points at article 2094559188676734976. **Do not import the article body.**
+
+### 63. X Articles — optional channel
+**When:** Optional content channel (id=2094635693993832480)
+Logged-out blog-like pages; Article schema + isAccessibleForFree. Not required homework.
+
+### 64. Person/social carrier `[once/experiment]`
+**When:** Site/brand weak (id=2094615467981930559)
+Future SEO can be the person. X-account SEO. Chinese as low-hanging fruit. **Not a quit-the-site SOP.**
+
+Gaps still `[no procedure in corpus]`: GEO how-to, hreflang fine-config, Bing ranking SOP, crawl-budget item-by-item, China GEO 规范 as imported doctrine, HCU article body.
+
+### 65. Own product is fastest Effort / Originality
+**When:** Quality / EEAT door (id=2094726807568478504)
+Own product is the fastest way to raise Originality and Effort — you tell Google and AI why the product is good.
+
+### 66. Fake as hard as real
+**When:** Fake authors / fake profiles as an efficiency ask (id=2095347481655840877, 2095348801607491906)
+Faking it is as hard as doing it real. Expert-as-author needs a real Profile. YMYL money / health / web3. Strengthens existing fake-author floor.
+
+### 67. llms.txt no-regret (keep both)
+**When:** Someone asks whether to do LLM.txt (id=2094440229482721382)
+Not causal for AI recommendation; doing it will not hurt. Keep Search/AIO ignore (id=2071840010593358218); still optional for chatbots / no-regret.
+
+### 68. AI Slop / PSEO KPI restatement
+**When:** PSEO junk for short-term KPI (id=2094431347851055262)
+Restates existing PSEO/spam: junk to punch KPI then jump ship. Not a new production SOP.
+
+### 69. YMYL L = Life
+**When:** Medical / YMYL (id=2094438099694833690)
+L is Life. Google invests in medical SERPs (莆田系 contrast). Appends to existing YMYL door; not a medical-SEO playbook.

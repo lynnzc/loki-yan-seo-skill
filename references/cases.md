@@ -879,3 +879,24 @@ Asserted unless he shows artifacts.
 **Proof:** in-corpus for the Xinhua PDF URL. Do **not** import the PDF as doctrine.
 **ids:** 2093578005176353204
 
+## 2026-09-03 delta (append)
+
+### 56. Handwritten dry-goods experiment — 5000 followers / 10 days
+**Proof:** asserted. No analytics. Light, not a growth SOP.
+**What happened:** Pure handwritten dry goods still get seen; homogeneous AI content is easy; human writing is scarce.
+**ids:** 2094551785461764302
+
+### 57. Manus `/updates` ranks core product queries
+**Proof:** asserted reading of a named public site (https://manus.im/updates).
+**What happened:** Well-ranking terms sit in product updates pages that mention the core product. He does not think it is coincidence. Changelog/log helps any outbound product (like git commits).
+**ids:** 2094710822136418378, 2094711722024325186
+
+### 58. Manus Trust as QRG online-store DNA
+**Proof:** in-corpus for named URLs (https://manus.im/pricing, https://trust.manus.im/, https://help.manus.im/en). Asserted that this is product DNA not an SEO kit.
+**What happened:** QRG Trust for Online Stores: payment + customer service. SaaS counts. Stripe mention/logo; Trust/Help/Contact.
+**ids:** 2094935978851078531
+
+### 59. 3–4 CN electronics cross-border Shopify sites auto-blogging
+**Proof:** asserted. Sites unnamed. All Spam Hit this year; non-brand organic wrecked.
+**What happened:** Auto related blogs; Shopify blog integration is weak. Ecommerce blogs OK only for product/feature/own Guide. PDP Taobao screenshots; Collection technical debt; weekly 10 blogs while Foundation broken. Shopify still better ecommerce architecture; being K’d is the domain, not Shopify.
+**ids:** 2095159020072124578, 2095320035690725505, 2095344173826363791

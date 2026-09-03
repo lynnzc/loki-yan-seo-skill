@@ -464,3 +464,16 @@ Use this as the index. Type tag: `C` = rejects metric as causal; `P` = rejects t
 | 2093347878098042898 | (not a rejection of multilingual) — do not treat restated language-lock as a GEO how-to | keep tension | Mechanism only |
 | 2093542304372129882 | “WP is unusable” as overseas-SEO stance | entire-practice of that claim `[once]` | Shopify still 2026 ecommerce line — keep both, scoped |
 
+## 2026-09-03 delta (append)
+
+| id | quote / meaning | type | still a panel? |
+|---|---|---|---|
+| 2094338319807078577 | SPA with no SSR for Brave (likely no JS render); blocking Brave | entire-practice | Submit URL; JS-off / SSR. Tension with Claude→Bing |
+| 2094396130427900220 | IndexNow expecting Google (「谷歌不支持」×3) | entire-practice | Bing / Naver / Yandex; https://www.indexnow.org/ |
+| 2094431347851055262 | PSEO / AI Slop junk for KPI then jump ship | entire-practice | Restates non-original PSEO |
+| 2094440229482721382 | llms.txt as a causal AI-recommendation switch | split | Search/AIO ignore; still optional / no-regret for chatbots |
+| 2094615467981930559 | Treating person/social carrier as a quit-the-site SOP | entire-practice of that upgrade | `[once/experiment]` only |
+| 2095122990493282767 / 2095157057255268605 / 2095157590301061376 | FAQ on every page / every blog | entire-practice | Service/product maybe; blogs usually not; intuition |
+| 2095159020072124578 | Ecommerce auto-related long-tail blogs while Foundation broken | entire-practice | Product/feature/own Guide OK. Shopify architecture still better; K is the domain |
+| 2095287266247836131 / 2095288889506443712 | PageSpeed as a content / ranking fix | metric-as-causal | CWV field panel; content is the ranking key; Authority is another layer |
+| 2095347481655840877 / 2095348801607491906 | Fake author / fake Profile as an efficiency hack | entire-practice | Expert needs a real Profile |

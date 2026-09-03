@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-09-03
+
+- Version **v0.5**. Window through **2026-09-03 UTC**. Last add: fake authors / fake profiles `2095347481655840877`.
+- Loki-authored **+23** (854 → 877). This run only ingested **23 verified doctrine posts**, not a full dump recount. Full public-post recount was not rerun; `posts` stays **979**; originals/replies/reposts left at the previous recount.
+- Brave Search: Claude uses Brave Search API; Brave has its own crawler/index; check not blocking Brave; Brave likely does **not** render JS → SPA fails, need SSR; submit URL; no Search Console equivalent → ‘pure SEO’. Keep tension with earlier Claude→Bing routing.
+- IndexNow: Google does **not** support (said three times). Connect Bing, Naver, Yandex. Tighten existing Bing/IndexNow: Google out. No Bing ranking SOP.
+- AI Slop / PSEO junk for KPI then jump ship — restates PSEO/spam.
+- YMYL L = Life; Google invests in medical SERPs; 莆田系 contrast.
+- llms.txt: not causal for AI recommendation; doing it will not hurt. Keep both: Search/AIO ignore; still optional for chatbots / no-regret.
+- Handwritten dry-goods experiment (5000 followers / 10 days) `[asserted]`: human writing still gets seen. Light, not a growth SOP.
+- HCU named + must practice; points at X Article `2094559188676734976`. Do **not** import the article body.
+- Future SEO carrier can be the person/social if site/brand weak; X-account SEO; Chinese as low-hanging fruit `[once/experiment]`. Not a quit-the-site SOP.
+- X Articles are SEO’d blog-like pages with Article schema + isAccessibleForFree. Optional channel.
+- Manus `/updates` ranks core product queries; changelog/log page helps any outbound product (like git commits). Own product is fastest Effort/Originality signal.
+- SaaS Trust as QRG online-store: payment + customer service; Stripe mention/logo; Trust/Help/Contact pages; DNA of a real product.
+- Google dropped FAQ rich results. Don’t FAQ every page/blog. FAQ is for user questions (e.g. buying). Service/product pages may still have FAQ; blogs usually not.
+- 3–4 CN electronics cross-border Shopify sites: auto related blogs, Shopify blog integration weak, all Spam Hit this year, non-brand organic wrecked `[asserted]`. Ecommerce blogs OK only for product/feature/own Guide. Shopify still better ecommerce architecture; being K’d is the domain, not Shopify. Keep Shopify `[overclaim]` AND WordPress `[once]` scoped.
+- PageSpeed only matters when product AND content are already good. Content is the ranking key. Authority is another layer. Aligns with CWV-not-main-lever.
+- Fake authors/profiles: faking it is as hard as doing it real. Expert-as-author needs a real Profile. YMYL money/health/web3.
+- GEO how-to still missing.
+
+
 ## 2026-08-31
 
 - Version **v0.4**. Window through **2026-08-31 UTC**. Last add: spam-policy dual track `2094335458423742688`.

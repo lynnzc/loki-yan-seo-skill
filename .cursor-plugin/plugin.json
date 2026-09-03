@@ -1,7 +1,7 @@
 {
   "name": "loki-yan-seo",
   "displayName": "Loki Yan SEO",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Unofficial Agent Skill from Loki Yan (@loki_yan_seo) public tweets. Google SEO / AIO / GEO diagnosis engine.",
   "author": {
     "name": "lynnzc"

@@ -31,3 +31,11 @@ Window through 2026-08-31 UTC. Loki-authored +165 (689 → 854). Full public-pos
 Appended: H1 = ranking query; sameAs; Bing/IndexNow + engine routing; internal-link params; 千人千面; crawl budget as enterprise-required; WordPress `[once]` scoped vs Shopify; Clarity as panel; blog-only decline; CN TLD split; language-lock restated; GEO = brand/WOM/ads; Foundation if Google+Microsoft; JS crawler-vs-chatbot; spam dual track; YMYL money-categories; expired-domain abuse.
 
 Tensions live in methodology §6: XHS vs author-EEAT; WP vs Shopify; language-lock restated vs GEO how-to missing. Do not overwrite old laws.
+
+## 2026-09-03 delta
+
+Window through 2026-09-03 UTC. Loki-authored +23 (854 → 877). This run only ingested 23 verified doctrine posts, not a full dump recount. Full public-post recount not rerun; `posts` stays 979.
+
+Appended: Brave Search / Claude API + JS-off/SSR; IndexNow Google-out (Bing/Naver/Yandex); AI Slop/PSEO KPI; YMYL L=Life; llms.txt no-regret tension; handwritten dry-goods experiment; HCU named + must-practice (article pointer only); person/social as future SEO carrier `[once/experiment]`; X Articles optional channel; Manus /updates + changelog; own product as Effort/Originality; SaaS Trust as QRG online-store; FAQ rich-results dropped; CN Shopify auto-blog Spam Hit; PageSpeed after product+content; fake authors as hard as real.
+
+Tensions live in methodology §6: Claude→Bing vs Claude→Brave; llms.txt Search/AIO ignore vs no-regret for chatbots; person/social carrier vs do-not-quit-the-site; GEO how-to still missing. Shopify ecommerce `[overclaim]` AND WordPress `[once]` stay scoped. Do not overwrite old laws.
